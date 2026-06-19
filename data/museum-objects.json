@@ -2352,13 +2352,798 @@
           }
         ],
         "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25809/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11723/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzIzL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11723/manifest",
+        "title": "Besuch des Pompejus auf der Villa des Cicero bei Pozzuoli",
+        "description": "Das Historiengemälde „Besuch des Pompeius in der Villa des Cicero bei Pozzuoli“ wurde 1828 vom Kronprinzen Friedrich Wilhelm (IV.), auf dessen erster Italienreise, bei dem in Rom lebenden Maler Franz Ludwig Catel (1778–1856) bestellt. Catel zeigt das Gespräch zwischen dem Staatsmann Pompeius, einem Gegenspieler Julius Caesars im römischen Bürgerkrieg 49/48 v.Chr., und Cicero, der in diesem Bürgerkrieg zwischen die Fronten geraten war – zunächst auf der Seite des Pompeius, begegnete ihm Caesar nach der Niederlage des Pompeius in der Schlacht in Thessalien erneut großmütig. Das Gemälde spiegelt die idealisierten Vorstellungen, die man von der römischen Antike und klassischen Landschaft hatte. \r\n\r\nCatel zeigt das Gespräch der beiden Staatsmänner im Zentrum des Gemäldes, auf einer großzügigen Terrasse, die den Blick auf die Stadt und den weiten Golf von Pozzuoli sowie die Insel Ischia erlaubt. Zahlreiche Diener umsorgen die beiden Herrschaften mit Speisen und Getränken. Am hinteren Rand der Terrasse stellt Catel eine große Rundbank dar, die auf die 1828 in Pompeji gefundenen Rundbank am Grab der Priesterin Mammia rekurriert. Auch Friedrich Wilhelm bewunderte und zeichnete diese Sitzbank bei seiner Station in Pompeij (vgl. v GK II (12) VII-B-71). Später sollte sie als Bauform in Potsdam mehrfach Verwendung finden, wie bspw. auf dem Ruinenberg. \r\n\r\nNach seiner Fertigstellung kam das Gemälde in die Römischen Bäder im Park Sanssouci und wurde gemeinsam mit einer Kopie nach Schinkels (1781–1841) „Ein Blick in die Blühte Griechenlands“ von Karl Beckmann (1799–1859) sowie einer Darstellung der „Villa d’Este in Tivoli“ von August Wilhelm Schirmer (1802–1844) in den dortigen Pavillon gehängt. \r\n\r\nBefindet sich derzeit im zentralen Depot der SPSG \r\n\r\nFranziska Ratajczak",
+        "creator": "Franz Ludwig Catel",
+        "date": "1828-1829",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25810/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25810",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Franz Ludwig Catel"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Rom"
+          },
+          {
+            "label": "gemalt",
+            "value": "1828-1829"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25810/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11724/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzI0L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11724/manifest",
+        "title": "Madonna Conestabile",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11725/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzI1L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11725/manifest",
+        "title": "Offenbarung des göttlichen Kindes vor den Engeln",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11726/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzI2L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11726/manifest",
+        "title": "Ruhender Akt",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11731/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzMxL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11731/manifest",
+        "title": "Francesco I. Farnese, Herzog von Parma und Piacenza (1678-1727)",
+        "description": "1694 folgte der gerade siebzehnjährige Francesco seinem Vater Ranuccio II. Farnese als Herzog von Parma und Piacenza. 1696 heiratete er die 25jährige Witwe seines Bruders Odoardo II., Dorothea Sophie von der Pfalz-Neuenburg (1670–1748), um deren umfangreiche Mitgift nicht zurückzahlen zu müssen. Die Ehe blieb kinderlos. Er übernahm ein völlig verschuldetes Herzogtum und versuchte die Ausgaben zu reduzieren. \r\n\r\nSein Bildnis ist wahrscheinlich nach dem Modell eines Porträts von Giovanni Maria Dellepiane, genannt il Mulinaretto, entstanden. 1695 wurde der Genueser Maler zum ersten Mal nach Parma eingeladen, um Francesco und seine Braut Dorothea Sophie von Pfalz-Neuenburg zu porträtieren. Danach hielt er sich erneut 1698 in Parma auf und wurde 1709 schließlich zum Hofmaler ernannt. Laut seinem Biographen Ratti (Carlo Giuseppe Ratti: Storia de’ pittori, scultori ed architetti liguri e de’ foresti che in Genova operarono, scritte da Giuseppe Ratti savonese in Genova, 1762) porträtierte er Francesco drei Mal. Angesichts des Alters des Dargestellten lässt sich Vorlage des vorliegenden Porträts wahrscheinlich um 1705 datieren. \r\n\r\nDie Originale sind bisher nicht eindeutig identifiziert worden. Das Potsdamer Gemälde ist dem als Werk Mulinarettos über Sotheby´s (7. July 2005, lot 195) verkauften Porträt Francescos am ähnlichsten. Es haben sich noch eine Reihe weiterer Versionen verschiedener Künstler u.a. in Parma und Düsseldorf erhalten. \r\n\r\nDas Gemälde befindet sich derzeit im zentralen Depot der SPSG. \r\n\r\nFranziska Windt",
+        "date": "1705",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25814/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25814",
+        "metadata": [
+          {
+            "label": "gemalt",
+            "value": "1705"
+          },
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Giovanni Maria delle Piane"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Parma"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Farnese [Familie]"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25814/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11738/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzM4L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11738/manifest",
+        "title": "Heiliger Hieronymus",
+        "description": "Dieser Heilige Hieronymus auf Knien betend, nur mit einem Lendenschurz bekleidet, entspricht dem Darstellungstypus des Eremiten. Am Boden liegend sind sein roter Kardinalshut sowie ein rot eingebundenes Buch zu sehen, die ihn als geistlichen Würdenträger und Gelehrten ausweisen. Neben ihm sitzt der zahme Löwe, dem er einen Dorn aus der Pfote entfernte. Sein wirrer Bart und sein schütteres Haar zeugen von den Strapazen seiner Askese. Der von quälenden Visionen und sexuellen Begierden heimgesuchte Hieronymus hält in der linken, ausgestreckten Hand einen Stein, mit dem er sich auf die Brust schlägt um die Leidenschaften abzutöten. Mit der rechten Hand verweist er auf seine Brust, während er sich vor einem Kruzifix in die Passion Christi versenkt. Die Darstellung des asketischen Aktes im Kontrast zur Landschaft bestimmt die Darstellung. \r\n\r\nDas Potsdamer Gemälde wurde 1815 in Paris mit der Sammlung Giustiniani von Friedrich Wilhelm III. in Paris erworben.\r\n\r\nBefindet sich derzeit im zentralen Depot der SPSG\r\n\r\nFranziska Ratajczak",
+        "creator": "Dosso Dossi",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25815/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25815",
+        "metadata": [
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Dosso Dossi"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Oberitalien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25815/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11739/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzM5L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11739/manifest",
+        "title": "Moses schlägt Wasser aus dem Felsen",
+        "description": "Im Alten Testament (4. Mose 20, 13) wird beschrieben, wie es den Israeliten nach ihrem Auszug aus Ägypten in der Wüste an Wasser mangelt und sie sich gegen Moses auflehnen. Auf Gottes Befehl hin schlägt Moses mit seinem Stab Wasser aus dem Felsen. Pietro Testa (1611–1650) zeigt den Moment unmittelbar nach dem Moses Gotteswerk vollbracht hat und einige der Israeliten bereits das rettende Wasser trinken, während andere voller Ehrfurcht und Dankbarkeit betend ihre Hände und Blicke gen Himmel wenden. Im Bildhintergrund ist ihr Zeltlager zu erkennen, von dem aus weitere Personen zur Stätte des Wunders eilen. Alle Figuren verdeutlichen durch ihre kraftvolle Gestik und ausdrucksvolle Mimik die Dramatik der Situation, die auch durch ihre vom Wind bewegten Gewänder betont wird. Dabei gelingt es Testa, eine Bandbreite an Affektdarstellungen zu zeigen. \r\n\r\nZusammen mit Testas Darstellung „Laban sucht die von Rahel verborgenen Götterbilder“, welches als Pendant zu diesem Gemälde assoziiert wurde, erwarb König Friedrich Wilhelm III. die Gemälde 1815 als Teil der Sammlung Giustiniani. Zuvor war das Werk seit 1638 in der Sammlung des Marchese Giustiniani nachweisbar, von dem es auch in Auftrag gegeben worden war. Zum Zeitpunkt des Erwerbs sowie lange danach galt es als ein Werk Nicolas Poussins (1594–1665). Nicht zuletzt Testas starker kompositorischer Bezug auf Poussins Werk mit der gleichen Thematik (heute National Gallery of Scotland, Edinburgh), mag dafür ausschlaggebend gewesen sein. Obgleich beide Gemälde nicht genau datiert werden können, geht man in der Forschung davon aus, dass der jüngere Testa sich an Poussin für diesen bedeutenden Auftrag orientierte.\r\n\r\nBefindet sich derzeit in der Bildergalerie\r\n\r\nFranziska Ratajczak",
+        "creator": "Pietro Testa (Maler)",
+        "date": "1635",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25816/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25816",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Pietro Testa (Maler)"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Rom"
+          },
+          {
+            "label": "gemalt",
+            "value": "1635"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25816/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11740/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzQwL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11740/manifest",
+        "title": "Der gefangene Sultan Bajazet vor Tamerlan",
+        "description": "Andrea Celesti (1637–1712) schuf um 1700, wahrscheinlich in Venedig, das großformatige Historiengemälde mit der Gefangenschaft des osmanischen Sultans Bajazet durch den mongolischen Heeresführer Tamerlan. Der Legende nach musste der besiegte Bajazet aus einem Käfig heraus mit ansehen, wie seine Frau den siegreichen Tamerlan bedient. Mit drohender Geste und wahnsinnigen Gesichtsausdruck, in die Stangen seines Käfigs beißend, zeigt Celesti Bajazet im Zentrum des Geschehens. Umgeben von zahlreichen orientalisch und exotisch gekleideten Höflingen, Dienern und Soldaten, die mit Pauken und Trompeten seine Präsentation begleiten. Der exotische Eindruck der Szenerie wird durch Pfauenfederschmuck der Höflinge und einen Elefanten im Hintergrund unterstrichen. \r\n\r\nGaleriedirektor Matthias Österreich lobte in Beschreibung des Gemäldes: „Die Composition ist groß und sehr reich; die Charaktere der Nationen sind sehr gut, ungezwungen und naiv ausgedrückt. Führnehmlich aber die Wuth des Bajazet. [...] Celesti hat sich in diesem Gemählde als ein sehr großer Meister gezeigt.“ (Beschreibung aller Gemählde, Antiquitäten und anderer kostbarer und merkwürdiger Sachen, so in denen beyden Schlößern von Sans-Souci, wie auch in dem Schloße zu Potsdam und Charlottenburg enthalten sind, Berlin 1773, Nachdruck, Potsdam 1990, S, 16f). Ein Ankauf des Gemäldes durch Friedrich II. ist für den Zeitraum 1765–1767 wahrscheinlich, da sich Werke Andrea Celestis in den Schatullenrechnungen nachweisen lassen. Im Jahr 1768 stellte Johann Melchior Kambly den großen Rahmen für das Gemälde in Rechnung. \r\n\r\nBefindet sich im Neuen Palais \r\n\r\nFranziska Ratajczak",
+        "creator": "Andrea Celesti",
+        "date": "1700",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25817/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25817",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Andrea Celesti"
+          },
+          {
+            "label": "gemalt",
+            "value": "1700"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Ankara"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25817/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11741/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzQxL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11741/manifest",
+        "title": "Herkules und Omphale",
+        "description": "Dieses Pier Francesco Mola (1612–1666) zugeschriebene Gemälde zeigt den Mythos von Herkules und Omphale, wie er u.a. bei Lukian (Göttergesprächen, 13) geschildert wird. Kern der Geschichte ist der verweichlichte Heros, der durch seine Leidenschaften versklavt und für ein Jahr in erniedrigender Dienerschaft von Omphale, der Königin der Lydia, lebt. Fast lebensgroß sind die beiden in der Natur dargestellt. In seiner Haltung nach rechts gewandt, ist der muskulöse Rücken des Helden zu sehen, der den Torso des Belvederes zitiert. Omphale ist ihm zugewandt, in Pose der kauernden Venus, und als Zeichen ihrer Dominanz trägt sie sein Fell des Nemeischen Löwen als Lendenschurz und verwahrt seine Keule an ihrer Seite. Er hingegen ist als demütiger Sklave mit dem Spinnrocken arbeitend gezeigt. Als erotisches sowie moralisierendes Sujet war das Motiv seit der Renaissance in ganz Europa verbreitet. \r\n\r\nIm Gegensatz zu vielen anderen Darstellungen begegnen sich beide Figuren auf Augenhöhe und zeigen eine verliebte Vertrautheit. Das Machtgefälle zwischen der häufig stehend dargestellten Königin und dem weiblich-passiven Herkules ist hier nicht erkennbar. Stärker als das Thema des Geschlechterrollen-Tausches oder der erotischen Lust, scheint hier der Liebesaspekt ihrer Beziehung im Fokus zu stehen.\r\n\r\n1773 benannte Galeriedirektor Matthias Oesterreich Pietro da Cortona (1596–1669) als Maler des Werkes und verwies auf stilistische Ähnlichkeiten zu Sebastiano Conca (1680–1746). Wenig später, um 1790, wurde es durch Oesterreichs Nachfolger Johann G. Puhlmann ebenfalls Cortona zugeschreiben. Allerdings mit der Bemerkung, er nähere sich im Kolorit Antonio da Correggio (1489–1534) an. Obgleich das Werk heute dem römischen Barockmaler Pier Francesco Mola zugeschrieben wird, bleibt die Autorschaft ungesichert. Eine Tuschezeichnung Molas zu demselben Bildthema (The Morgan Library & Museum) zeigt eine andere Komposition, obgleich er für die Pose des Herkules lediglich eine andere Perspektive wählte. Das Blatt könnte als kompositionelle Studie für das Potsdamer Gemälde gedient haben. In der Forschung wird jedoch auch diskutiert, ob das Gemälde aus der Hand von Molas Schüler, Giovanni Buoncore stammen könnte. \r\n\r\nDas Gemälde befindet sich im Neuen Palais. \r\n\r\nFranziska Ratajczak",
+        "creator": "Pier Francesco Mola",
+        "date": "1600-1699",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25818/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25818",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Pier Francesco Mola"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Italien"
+          },
+          {
+            "label": "gemalt",
+            "value": "1600-1699"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25818/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11742/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzQyL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11742/manifest",
+        "title": "Der Selbstmord der Kleopatra",
+        "description": "Den Kopf Richtung Himmel gerichtet und die Augen dramatisch nach oben verdreht, zeigt Guido Reni die ägyptische Herrscherin Kleopatra im Augenblick ihres Selbstmordes. Auf das Blickmotiv der antiken Niobide für diese Affektdarstellung rekurrierend, erzeugt Renis halbfigurige Darstellung eine dramatische Nähe zum Betrachter, welche die Drastik der Verzweiflungstat zu vermitteln sucht. Tropfen frischen Blutes quellen bereits aus der Bisswunde an der entblößten Brust, die sie sich selbst mit einer Natter zugefügt hat. Reni folgt mit dieser Darstellung der Überlieferung Plutarchs, der zufolge sich die durch Ocatvian besiegte Königin 30 v.Chr. durch das Gift einer Natter das Leben nahm. \r\n\r\nRenis „Selbstmord der Kleopatra“ gehört zu einer Reihe von Gemälden, die er dem Tod der Pharaonin widmete. Eine ungefähr zeitgleiche Variante findet sich in der Royal Collection auf Schloss Windsor, spätere Kompositionen im Palazzo Pitti in Florenz sowie der Galeria Capitolina in Rom. Darüber hinaus beschäftigte sich Reni auch in andere Form mit dem Motiv des Freitodes. Eine Variante ist der „Selbstmord der Lucretia“, die sich seit 1768 in der Sammlung Friedrich II. befindet.\r\n\r\nDas Gemälde „Selbstmord der Kleopatra“ wurde bereits 1756 von Friedrich II. aus der Sammlung des Duc de Tallard durch den Pariser Handelsagenten Louis-François Mettra erworben. Dieser Kauf steht exemplarisch für Friedrichs Bestreben ab den 1750er Jahren, schwerpunktmäßig Maler der Hochrenaissance sowie des Barock aus den Niederlanden und Italien zu sammeln. Zuvor richtete sich sein Interesse stärker auf französische Werke.\r\n\r\nBefindet sich derzeit im Neues Palais \r\n\r\nFranziska Ratajczak",
+        "creator": "Guido Reni",
+        "date": "1626",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25819/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25819",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Guido Reni"
+          },
+          {
+            "label": "gemalt",
+            "value": "1626"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Ägypten"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25819/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11743/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzQzL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11743/manifest",
+        "title": "Urteil des Paris",
+        "description": "Die Geschichte vom \"Urteil des Paris\" aus der griechischen Mythologie ist in der Barockzeit sehr beliebt. Sie erzählt von dem als Hirte lebenden trojanischen Königssohn, der unter den Göttinnen Athena, Hera und Aphrodite die Schönste auswählen soll und sich nicht für Athena entscheidet, die ihm dafür Weisheit geben möchte, oder Hera, die ihm die Herrschaft über die Welt verspricht, sondern für Aphrodite, die ihm die Liebe zur schönsten Frau, der Welt verspricht. \r\n\r\nAuch Luca Giordano, der für seine flotte Malweise bekannt war, schuf mehrere Versionen. In der Potsdamer Komposition gab er dem Thema einen humoristischen Anstrich. So hat er die Göttin Athena, wohl erkenntlich an dem neben der sitzenden Figur liegenden Helm, wenig würdevoll in dem Augenblick dargestellt, in dem sie mit empörtem Gesichtsausdruck, wieder in ihr weißes Hemd schlüpft. Ein Kommentar des Malers zur Wahl des Helden liegt auch in der Szene ganz links im Bild. Hinter zwei Bäumen versteckt feixen zwei gehörnte Faune in Richtung Aphrodite, die dies offenbar auch bemerkt.\r\n\r\nFür wen die Darstellung im Neuen Palais im Potsdam ursprünglich gemalt wurde, ist nicht bekannt. Zusammen mit dem \"Raub der Sabinerinnen\", das wahrscheinlich als Pendant zu dem „Parisurteil“ entstanden ist, erwarb König Friedrich II. das Gemälde über einen Zwischenhändler aus dem Besitz des französischen Malers, Restaurators und Kunsthändlers Louis-François Colins (1699-1760). Dieser besaß außerdem zwei etwas kleinere Darstellungen Giordanos mit dem \"Raub der Europa\" und dem \"Triumph der Galathea\". Seit 1771 befinden sich diese Gemälde in der Eremitage in St. Petersburg. Colins ließ von Jacques-Firmin Beauvarlet zwischen 1760 und 1763 Stiche von den vier Gemälden anfertigen, wohl um sie besser verkaufen zu können. \r\n\r\nDer preußische König ließ die beiden Gemälde Giordanos 1768 zusammen mit anderen italienischen Barockgemälden im Oberen Saal im Neuen Palais fest in die Wanddekoration einbauen. \r\n\r\nFranziska Windt",
+        "creator": "Luca Giordano",
+        "date": "1675-1677",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25820/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25820",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Luca Giordano"
+          },
+          {
+            "label": "gemalt",
+            "value": "1675-1677"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Neapel"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25820/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11892/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODkyL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11892/manifest",
+        "title": "Alter Markt in Potsdam mit Blick auf das Rathaus",
+        "description": "Die Ansicht des Potsdamer Alten Marktes zeigt auf der linken Seite die Nikolaikirche, mittig das Potsdamer Rathaus und rechts. \r\n\r\nDie Fassade des Potsdamer Rathauses entstand in Anlehnung an (nie ausgeführte) Entwürfe Andrea Palladios für den Palazzo Angarano aus dem Jahr 1564. Jedoch gekrönt von einer Kuppel, die von derjenigen des barocken Rathaus Amsterdams inspiriert war. Friedrich besaß Palladios Architekturtraktat \"I quattro libri dell´Architettura\", in der der Entwurf für die Fassade des Palazzo Angarano abgebildet ist. \r\n\r\nDas Bild war Teil der Erstausstattung der Neuen Kammern ab spätestens 1775.\r\n\r\nA. Bauer (2016)",
+        "creator": "Karl Christian Wilhelm Baron",
+        "date": "1772",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26067/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26067",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Karl Christian Wilhelm Baron"
+          },
+          {
+            "label": "gemalt",
+            "value": "1772"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26067/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11893/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODkzL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11893/manifest",
+        "title": "Der Selbstmord der Lukretia",
+        "description": "Guido Reni zeigt die Römerin Lukretia stehend, mit einem Bein auf ihrem Bett kniend. Sie hat ihr langes gelbes Gewand herabgezogen, um ihre Brust freizumachen für den Dolchstoß, mit dem sie sich töten wird. Zu dieser Verzweiflungstat hat sie sich entschlossen, nachdem sie von dem römischen Königssohn Sextus Tarquinius vergewaltigt wurde. In Renis Darstellung schaut sie dabei wie um Erlösung bittend nach oben.\r\n\r\nKönig Friedrich II. hat das Gemälde von Guido Reni 1768 in Frankreich vorab aus einer Auktion erworben. Es wurde aus der Sammlung de Merval zusammen mit Renis gleichgroßen „Judith mit dem Haupt des Holofernes“ verkauft. Beide Gemälde befanden sich zuvor in der bedeutenden Sammlung des Kardinal Jules Mazarin (1602-1661). In der Forschung wird die Potsdamer Lukretia als die früheste von Reni gefertigten Fassung für Kardinal Ludovico Ludovisi (1595-1632) angesehen. Damit handelt es sich wohl um eine aus der Hand Renis stammende Version und nicht um eine der vielen Werkstattfassungen oder Kopien.\r\n\r\nFriedrich II. ergänzte mit diesem Gemälde die Ausstattung der Oberen Galerie im Neuen Palais, die italienischer Barockmalerei gewidmet ist. Er ließ es neben die „Vergewaltigung der Lukretia“ von Artemisia Gentileschi hängen. In der unmittelbaren Nachbarschaft offenbaren diese beiden Gemälde einen großen Unterschied in der Auffassung des Themas. Reni gibt der idealisierten Frauenfigur eine theatralisch-dramatische Haltung und stattet sie mit üppigen Draperien in den drei Grundfarben aus. Es stellt Lukretia als Beispiel einer tugendhaften, starke Frau dar, die sich selbst opfert, um ihre und ihrer Familie Ehre wieder herzustellen. Artemisia zeigt eine viel weniger idealisierte Lukretia, in hilfloser Lage zwischen zwei Männern völlig ungeschützt und in natürlicherer Nacktheit preisgegeben. \r\n\r\nDas Gemälde befindet sich in der Oberen Galerie des Neuen Palais. \r\n\r\nFranziska Windt",
+        "creator": "Guido Reni",
+        "date": "1625-1626",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26068/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26068",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Guido Reni"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Rom"
+          },
+          {
+            "label": "gemalt",
+            "value": "1625-1626"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Bologna"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Rom"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Titus Livius"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26068/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11894/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODk0L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11894/manifest",
+        "title": "Tarquinius und Lukretia Lucrezia Romana, 17. Jhr.",
+        "description": "Diese sorgfältig inszenierte und gleichzeitig drastische Darstellung des Angriffs des römischen Königssohnes Sextus Tarquinius auf die verheiratete und tugendhafte Lukretia erwarb der preußische König Friedrich II. ohne zu wissen, dass es sich um ein Werk der römischen Malerin Artemisia Gentileschi handelt. Er fügte dieses Gemälde zusammen mit der „Bathseba im Bade“ derselben Malerin in die Hängung der Oberen Galerie des Neuen Palais. \r\n\r\nDas Gemälde ist zuvor in Parma dokumentiert, wo es zusammen mit der „Bathseba im Bade“ und einer „Judith mit dem Haupt des Holofernes“ 1671 im Palazzo del Giardino der Familie Farnese als Werk Artemisia Gentileschis beschrieben wird.\r\n\r\nArtemisia stellt hier den Moment dar, in dem Tarquinius ihr droht, sie und ihren Sklaven zu ermorden, und einen Ehebruch vorzutäuschen, wenn sie sich ihm nicht hingibt. Um ihre Ehre zu retten, fügt sie sich Tarquinius und tötet sich dann im Beisein ihres Vaters und ihres Mannes. Vorher lässt sie diese noch schwören sie zu rächen. Daraus folgt ein Aufstand des Volkes gegen die Tyrannei der Tarquinier und die Einführung der römischen Republik. Durch ihre Komposition, die im Zentrum des Bildes die nackte, halb auf ihrem Bett liegende Lukretia, zwischen zwei Männern zeigt - dem dunkelhäutigen Sklaven auf der einen und dem erregt mit dem Dolch auf sie einstürmenden Tarquinius auf der anderen Seite -, betont Artemisia eher Lukretias Rolle als Opfer von Gewalt, als die einer Tugendheldin, als die sie in der Literatur galt. \r\n\r\nDas Gemälde befindet sich in der Oberen Galerie des Neuen Palais, die aus bautechnischen Gründen nicht zugänglich ist. \r\n\r\nFranziska Windt",
+        "creator": "Artemisia Gentileschi",
+        "date": "1620-1650",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26069/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26069",
+        "metadata": [
+          {
+            "label": "(allgemein)",
+            "value": "Parma"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Rom"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Titus Livius"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Artemisia Gentileschi"
+          },
+          {
+            "label": "gemalt",
+            "value": "1620-1650"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Farnese [Familie]"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26069/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11895/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODk1L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11895/manifest",
+        "title": "Der Raub der Sabinerinnen",
+        "description": "Der römische Autor Titus Livius (59 v. Chr. - 17 n. Chr.) berichtet in seiner Geschichte Roms (Ab urbe condita) von Romulus, dem ersten römischen König. Um den Mangel an Frauen auszugleichen, der kurz nach der Gründung Roms dort herrschte, befahl er den römischen Männern während eines Kampfspiels, das sie für ihre Nachbarn, die Sabiner, veranstalteten, deren unverheiratete Frauen zu rauben. Dieser Frauenraub, der das Bestehen des frühen römischen Staates sicherte, ist ein in der Barockzeit beliebtes Thema. Auch der neapolitanische Maler Luca Giordano griff es mehrfach auf. Von dem Potsdamer Gemälde fertigte er eine zweite Version, die sich heute in der Galleria Nazionale im Palazzo Spinola in Genua befindet. \r\n\r\nDen Angriff der Soldaten auf die Frauen zeigt Giordano an fünf Paaren, die er möglichst variantenreich gestaltet. In der Mitte der Komposition hat ein Soldat eine der Frauen mit festem Griff emporgehoben und eilt mit weitem Schritt, um seine Beute zu entführen. Vergeblich versucht sie, sich mit einer Drehbewegung, deren Heftigkeit ihr wehendes blaues Gewand anzeigt, aus dem Griff des Angreifers zu entwinden. Von dieser Gruppe ausgehend, scheinen die anderen Figuren in alle Richtungen auseinanderzustreben. Giordanos lockerer Pinselstrich und die Farbigkeit seiner Motive unterstützen den Eindruck von Bewegung. \r\n\r\nFür seine Erfindung der zentralen Entführungsgruppe könnte Giordano Berninis Statue des Raubes der Proserpina durch Pluto als Anregung gedient haben. \r\n\r\nDas Gemälde ist fest in die Wanddekoration der Oberen Galerie des Neuen Palais eingebaut. \r\n\r\nFranziska Windt",
+        "creator": "Artemisia Gentileschi",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26070/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26070",
+        "metadata": [
+          {
+            "label": "(allgemein)",
+            "value": "Rom"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Neapel"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Titus Livius"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Artemisia Gentileschi"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26070/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11896/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODk2L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11896/manifest",
+        "title": "Bathseba im Bade",
+        "description": "Bathseba, die Frau eines Offiziers der Armee des biblischen König David, ist hier nackt und völlig versunken in ihre Schönheitspflege auf einer Terrasse sitzend dargestellt. In einen Spiegel schauend, den eine Dienerin ihr vorhält, richtet sie ihre Haare. Hinter ihr zieht eine weitere Frau eine Perlenkette aus einem Körbchen, um sie ihr zu reichen. Eine dritte Frau bringt einen Wasserkessel. Ihr Blick richtet sich nach links aus dem Bild heraus. Über ihr, im Hintergrund, steht völlig unbemerkt von den Frauen König David in einer Loggia. Offenbar hat er die Schöne gerade entdeckt und hebt hingerissen von ihrem Anblick seine Arme. David wird Bathseba zu sich kommen lassen, wissend, dass sie verheiratet ist, und wird sie schwängern. Da es ihm nicht gelingen wird, das Kind Bathsebas Mann unterzuschieben, wird David dessen Tod herbeiführen, indem er ihn an die Front schicken wird. Diese Handlungen rufen, laut Bibel, den Zorn Gottes hervor. Das aus diesem Ehebruch hervorgegangene Kind wird sterben. \r\n\r\nArtemisia Gentileschi hat sich bei dieser Darstellung nicht auf die unheilvollen Folgen der Geschichte, sondern ganz auf die Darstellung der Schönheit der Frau konzentriert. \r\n\r\nDie sich schmückende schöne Bathseba malte Artemisia mehrfach. Eine motivisch sehr ähnliche Fassung aus dem Besitz der Medici befindet sich im Palazzo Pitti. Vor allem die Farbgebung und viele Details weichen hier ab. Die im Potsdamer Gemälde sehr sicher und ohne Korrekturen auf die Leinwand gesetzten Figuren deuten darauf hin, dass es nicht Artemisias erste Fassung des Themas war.\r\n\r\nFriedrich II. erwarb das Gemälde zusammen mit der „Vergewaltigung der Lukretia durch Tarquinius“, ohne zu wissen, dass beide von der berühmten Malerin stammen. Er ließ die Bilder zusammen mit anderen Barockgemälden von Guido Reni und Luca Giordano in die Obere Galerie im Neuen Palais hängen. \r\n\r\nFranziska Windt",
+        "creator": "Luca Giordano",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26071/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26071",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Luca Giordano"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Parma"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Farnese [Familie]"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26071/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11897/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODk3L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11897/manifest",
+        "title": "Diogenes in der Tonne",
+        "description": "Die Darstellung zeigt den asketischen Philosophen in einer Tonne sitzend. Diogenes von Sinope, über dessen Leben wir nur aus Sekundärquellen informiert sind, soll bewusst in Armut gelebt und gelegentlich in Vorratsgefäßen geschlafen haben. Daraus wurde in der Überlieferung ein Fass. Um Diogenes als Philosophen zu charakterisieren, stattete das Gefäß mit Büchern aus. Vielleicht kannte er Ugo da Carpis 1527–1530 entstandenen Chiaroscuro Holzschnitt nach einer Komposition Parmigianinos, auf dem der kynische Philosoph in vergleichbarer starker Körperdrehung vor einem Fass sitzt. \r\n\r\nDie moderne Forschung ist sich nicht einig, ob es sich um ein eigenhändiges Werk von Guido Reni oder von dessen Schüler Simone Cantarini handelt. Friedrich der Große erwarb dieses Werk 1766 nach einigem Zögern, weil ihm die Draperien nicht gefielen, von einem Kunsthändler in Paris. Der „Diogenes“ war auch schon zuvor in einer prinzlichen Sammlung gewesen. Bis 1742 hatte sich das Gemälde im Besitz des Prinzen Victor-Amédée I. von Savoyen Carignan (1690-1741) befunden. \r\n\r\n1768 fand es seinen Platz in der Oberen Galerie des Neuen Palais als Pendant zum „Selbstmord der Lukretia“ von Reni. \r\n\r\nFranziska Windt",
+        "creator": "Guido Reni",
+        "date": "Nach 1635",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26072/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26072",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Guido Reni"
+          },
+          {
+            "label": "gemalt",
+            "value": "Nach 1635"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Bologna"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Griechenland"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Simone Cantarini"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26072/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11898/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODk4L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11898/manifest",
+        "title": "Der ungläubige Thomas",
+        "description": "Die Arbeiten von Caravaggio zeichnen sich durch einen ausgeprägten Naturalismus in der Darstellung und starke Licht-Schatten-Kontraste aus. Caravaggio war in Rom für namhafte Auftraggeber tätig, u.a. für die Geschwister Giustiniani – Kardinal Benedetto und Marchese Vincenzo. In ihrer bedeutenden, im Palazzo Giustiniani untergebrachten Kunstsammlung präsentierten sie insgesamt 15 Gemälde des Meisters , darunter auch \"Der ungläubige Thomas\". Nachdem sich zu Beginn des 19. Jahrhunderts der Nachfahre Principe Vincenzo Giustiniani aufgrund hoher Verschuldung gezwungen sah, die Sammlung der Familie aufzulösen und an Féréol Bonnemaison zu veräußern, erwarb sie der preußische König Friedrich Wilhelm III. 1815 bei dem Pariser Kunsthändler. Der Ankauf erfolgte bereits im Hinblick auf die Einrichtung eines öffentlichen Kunstmuseums in Berlin, weshalb die Gemälde nicht in die Kunstsammlungen der preußischen Schlösser integriert wurden. Stattdessen wurden sie zunächst an die Königlich Preußische Akademie der Künste übergeben, bevor sie Aufnahme in das 1830 fertiggestellte Königliche Museum in Berlin fanden. Der \"ungläubige Thomas\" jedoch fiel unter die Werke, die – vor dem Hintergrund des damaligen Kunstgeschmacks – als weniger qualitätvoll eingestuft und aussortiert wurden.\r\n\r\nVon den fünf erworbenen Bildern Caravaggios kamen schließlich nur drei in das Museum, darunter \"Amor als Sieger\" (Berlin, SMB PK, Gemäldegalerie, Inv. Nr. 369), während \"Der ungläubige Thomas\" zunächst in die Bildergalerie des Berliner Schlosses gehängt wurde. 1855/1856 kam das Gemälde in die Bildergalerie von Sanssouci. \r\n\r\nDie Komposition, basierend auf einer Episode des Johannesevangeliums (Joh 20,24–29), ist in dunklen Brauntönen gehalten, die zentralen Figuren Christus und Thomas werden von einem von links einfallenden Lichtschein beleuchtet und hervorgehoben. Christus, mit blasser Haut und in einem weißen Gewand dargestellt, führt die Hand des Apostels, um ihn von seiner Wiederauferstehung zu überzeugen, die dieser zuvor angezweifelt hatte. Erst durch das Berühren der Wundmale Christi ließ sich Thomas dazu bewegen, an das eingetretene Wunder zu glauben. Zwei weitere Jünger stehen hinter Thomas und verfolgen – ebenso gebannt und mit gerunzelter Stirn – das Geschehen. Durch den Verzicht auf zusätzliche, erklärende Details oder die Gestaltung des Hintergrunds erscheinen die vier Figuren nahezu monumentalisiert, der Betrachter konzentriertsich auf die handelnden Personen und das Geschehen, dem er als Zeuge selbst beizuwohnen scheint. Das Gemälde befindet sich in der Bildergalerie von Sanssouci. \r\n\r\nJana Glorius",
+        "creator": "Michelangelo Merisi da Caravaggio",
+        "date": "1601",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26073/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26073",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Michelangelo Merisi da Caravaggio"
+          },
+          {
+            "label": "gemalt",
+            "value": "1601"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26073/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11899/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExODk5L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11899/manifest",
+        "title": "Alter Markt in Potsdam mit Stadtschloss (Blick in Richtung Schlossstraße)",
+        "description": "Das Bild war Teil der Erstausstattung von 1775 (beziehungsweise vor 1782) der Neuen Kammern. Friedrich der Große hegte eine große Vorliebe für die Stadtansichten Venedigs, die Michele Marieschi und Canaletto im 18. Jahrhundert geschaffen hatten. Thematisch vergleichbare Stadtansichten Potsdams ließ der König Anfang der 1770er Jahre von deutschen Künstlern anfertigen, die die jüngsten Veränderungen des Potsdamer Stadtbildes zeigen. Der König hatte sie nach dem Vorbild der palladianischen Renaissance- und der römischen Barockarchitektur vornehmen lassen. Das Objekt befindet sich in den Neuen Kammern. \r\n\r\nA. Bauer (2016)",
+        "creator": "Karl Christian Wilhelm Baron",
+        "date": "1772",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26074/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26074",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Karl Christian Wilhelm Baron"
+          },
+          {
+            "label": "gemalt",
+            "value": "1772"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26074/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11900/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExOTAwL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11900/manifest",
+        "title": "Alter Markt in Potsdam mit Nikolaikirche",
+        "description": "Im 18. und 19. Jahrhundert war der Alte Markt das Zentrum des städtischen Leben Potsdams, das Karl Christian Wilhelm Baron in einer belebten Marktszene wiedergibt. Stadtschloss, Rathaus und Nikolaikirche umgeben den Platz und zeugen von den Veränderungen, die Friedrich der Große in den 1750er Jahren an dessen Bauten vornahm. Zentral im Hintergrund des Bildes zeigt der als Maler am Hofe Friedrichs II. tätige Baron die Potsdamer Nikolaikirche. Sie war zwischen 1721 und 1724 unter dem Vater des Königs, König Friedrich Wilhelm I., nach Plänen Philipp Gerlachs errichtet worden. Friedrich II. ließ ihre dem Platz zugewandte Südseite 1752 bis 1755 mit einer vorgeblendeten Fassade versehen, die sich an der Front der römischen Barockkirche Santa Maria Maggiore orientierte. 1772 und 1773 erwarb Friedrich der Große drei Ansichten des Alten Markts von Karl Christian Wilhelm Baron und integrierte sie seit spätestens 1775 (beziehungsweise vor 1782) in die Erstausstattung der Neuen Kammern. Es handelt sich um dieselben Ansichten, die auch heute noch in den Neuen Kammern zu sehen sind. \r\n\r\nA. Bauer",
+        "creator": "Karl Christian Wilhelm Baron",
+        "date": "1772",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/26075/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/26075",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Karl Christian Wilhelm Baron"
+          },
+          {
+            "label": "gemalt",
+            "value": "1772"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/26075/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38697/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4Njk3L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38697/manifest",
+        "title": "Die oranischen Prinzessinnen Albertine Agnes van Nassau-Dietz (1634-1696), Henriette Catharina von Anhalt-Dessau (1637-1708) und Maria von Simmern (1642-1688)",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38708/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzA4L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38708/manifest",
+        "title": "Venus und Amor",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38709/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzA5L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38709/manifest",
+        "title": "Schmerzensmann, Ecce Homo",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38710/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzEwL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38710/manifest",
+        "title": "Erlegte Vögel",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38711/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzExL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38711/manifest",
+        "title": "Kurprinz Karl Emil von Brandenburg (1655-1674)",
+        "description": "In selbstbewusster Haltung wird der etwa fünfjährige Kurprinz Karl Emil von Brandenburg in Szene gesetzt: in antikisierender Feldherrenkleidung, mit Kurmantel, Zepter und Kurhut. Nach dem frühen Tod des Erstgeborenen Wilhelm Heinrich (1648-1649) war das Kurfürstenpaar lange Zeit kinderlos geblieben. Die Geburt Karl Emils im Jahr 1655 war daher von größter Bedeutung.\r\n\r\nDer Typus des gemalten Blumenkranzes war ein flämisches Motiv, das unter Jan Breughel d.Ä. entstand und unter Daniel Seghers weiterentwickelt wurde. Erst wurden religiöse Darstellungen in das Innenfeld eingefügt, später auch Bildnisse. Gerne arbeiteten Stillleben- und Porträtmaler gemeinsam an derartigen Darstellungen. Der in Leiden und Gouda tätige van der Spelt schuf vermutlich nur den Blumenkranz des Gemäldes. Um 1665 war er am brandenburgischen Hof tätig.\r\n\r\nDas Gemälde, das erst in den 1960er Jahren in die Sammlungen kam, wird im Jagdschloss Grunewald präsentiert.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Adriaen van der Spelt",
+        "date": "1660",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37962/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37962",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Adriaen van der Spelt"
+          },
+          {
+            "label": "gemalt",
+            "value": "1660"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37962/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38712/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzEyL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38712/manifest",
+        "title": "Kurfürstin Dorothea von Brandenburg",
+        "description": "Das 1675 entstandene Bildnis zeigt Kurfürstin Dorothea von Brandenburg (1636-1689) im Alter von 39 Jahren. Sie ist im Kurmantel und in einem silberweißen Kleid, das mit üppigen Perlenschnüren und Steinschmuck verziert ist, sitzend wiedergegeben. Neben ihr liegt der Kurhut auf einem mit kostbarem Goldbrokat verkleideten Tisch, während sie von einer gleichartigen Draperie hinterfangen wird. \r\n\r\nBereits seit sieben Jahren war Kurfürstin Dorothea zu dieser Zeit mit dem Großen Kurfürsten verheiratet und hatte ihm fünf Kinder geboren. Ihre Tochter Dorothea sollte nur wenige Wochen nach Anfertigung des Bildnisses im Juni 1675 geboren werden. Ihr folgte zwei Jahre später ein weiterer Bruder. \r\n\r\nDer Haager Porträtmaler Jan de Baen hatte im April oder Mai des Jahres 1675 Bildnisse des brandenburgischen Kurfürsten und seiner hochschwangeren Ehefrau während ihres zweiwöchigen Aufenthaltes in Den Haag angefertigt. Den Gepflogenheiten der damaligen Malerei entsprechend wurde die Schwangerschaft jedoch nicht im Bild thematisiert. Mit den Bildnissen war der Kurfürst derart zufrieden, dass er de Baen das Prädikat eines kurbrandenburgischen Hofporträtisten verlieh, ohne dass der in Den Haag gut verdienende Künstler jemals an den damals wesentlich rückständigeren Berliner Hof zog. \r\n\r\nIn dem hier gezeigten Bildnis wiederholte De Baen noch im Jahr der Anfertigung des Bildnispaares das Porträt Dorotheas in leicht veränderter Form. \r\n\r\nDas Gemälde wird heute im Schloss Caputh präsentiert. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Jan de Baen",
+        "date": "1675",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37963/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37963",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jan de Baen"
+          },
+          {
+            "label": "gemalt",
+            "value": "1675"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37963/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38713/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzEzL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38713/manifest",
+        "title": "Kurfürst Friedrich Wilhelm von Brandenburg (1620-1688)",
+        "description": "Kurfürst Friedrich Wilhelm von Brandenburg ist vor einer massiven Felswand als Feldherr dargestellt, gekleidet in einem ledernen Koller (einer Art Waffenrock) mit Brustpanzer, Degen und Feldherrnstab. Mit seiner Linken verweist er auf eine Schlacht zu Pferde im Hintergrund, was seine Rolle als Befehlshaber unterstreicht. Ebenso wie die Elemente Brustpanzer, Waffenrock, Degen und Feldherrnstab verweist die Wiedergabe der Schlacht auf die militärischen Leistungen des Kurfürsten im Allgemeinen, ohne sich auf eine spezifische Schlacht zu beziehen. Mit diesen Elementen entspricht das Bildnis dem Typus des Feldherrenbildnisses, wie es in der Den Haager Malerei von Porträtmalern wie Adriaen Hanneman, Jan Mijtens, Jan de Baen und Pieter Nason häufig verwendet wurde. Gleichzeitig lässt die Darstellung den Einfluss des flämischen Malers Antonis van Dyck erkennen. Adriaen Hanneman hatte dessen Werke während eines mehrjährigen Englandaufenthaltes kennengelernt, wo Van Dyck seit 1632 große Erfolge als führender Porträtmaler der höfischen Gesellschaft feierte. 1640 von England nach Den Haag zurückgekehrt, ließen Hannemans Werke fortan Stil- und Bildelemente der eleganten, verfeinerten Porträtmalerei Van Dycks erkennen. So ist das Bildnis des Großen Kurfürsten mit Feldherrendarstellungen vergleichbar, die Hanneman in den 1640er bis 1650er Jahren schuf, beispielsweise dem Bildnis von Henry Stuart, Herzog von Gloucester (National Gallery of Art, Washington) von um 1653.\r\n\r\nDie Datierung des Bildnisses schwankt in der Literatur zwischen 1647 und 1659. Das Gemälde wurde 1982 erworben, nachdem es sich jahrhundertelang im Besitz des Fürstenhauses Anhalt-Dessau, unter anderem in Wörlitz, befunden hatte. Johann Georg II. von Anhalt-Dessau war seit spätestens 1658 eng mit dem Kurfürsten von Brandenburg verbunden, in dessen Dienste er in diesem Jahr als Kavalleriegeneral und Statthalter der Kurmark trat. Ein Jahr später heiratete er die Schwägerin des Kurfürsten, Henriette Catharina von Oranien-Nassau. Möglicherweise steht die Entstehung des Bildnisses in Zusammenhang mit dieser doppelten engen Beziehung des Hauses Anhalt-Dessau zum Kurfürsten von Brandenburg ab 1658 oder kam einige Jahre zuvor über den Kontakt des Kurfürsten zu seiner Schwägerin in die anhaltischen Sammlungen. 1666 schuf Adriaen Hanneman ein Bildnis Johann Georgs II. (Anhaltische Gemäldegalerie Dessau), das ihn in einer vergleichbaren Komposition als Feldherrn vor der Darstellung einer Schlacht zu Pferde zeigt.\r\n\r\nDas Gemälde wird heute im Schloss Oranienburg gezeigt. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Adriaen Hanneman",
+        "date": "1647-1659",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37964/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37964",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Adriaen Hanneman"
+          },
+          {
+            "label": "gemalt",
+            "value": "1647-1659"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37964/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38714/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzE0L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38714/manifest",
+        "title": "Kurfürstin Louise Henriette von Brandenburg (1627-1667), Prinzessin von Oranien",
+        "description": "Das um 1665 entstandene Bildnis zeigt Kurfürstin Louise Henriette von Brandenburg im Ausschnitt des Kniestücks vor einer Felswand, die auf der linken Bildseite den Blick in eine idyllische Landschaft im Abendlicht freigibt. Die Dargestellte ist in ein silberweißes Kostüm mit einem lockeren hellblauen Überwurf gekleidet und trägt Perlenschmuck. Während ihre Linke elegant auf einem Felsstück aufliegt, hält sie in der Rechten einen Orangenzweig, der auf ihre Herkunft aus dem Hause Oranien verweist.\r\n\r\n1646 hatte Louise Henriette von Oranien-Nassau den Kurfürsten Friedrich Wilhelm von Brandenburg geheiratet. Sie gebar ihm sechs Kinder, von denen jedoch nur drei die Mutter und nur eines (Kurfürst Friedrich III. von Brandenburg/König Friedrich I. in Preußen) den Vater überleben sollten. Das Bildnis Louise Henriettes entstand vermutlich nur wenige Jahre beziehungsweise Monate vor dem Tod der neununddreißigjährigen Kurfürstin im Jahr 1667. Es entspricht in seiner Komposition, der eleganten Haltung und farbenfrohen Kleidung der am Hofe beliebten Haager Porträtmalerei der 1660er und 1670er Jahre. Der aus Den Haag stammende Maler Jan Mijtens (1613/1614) gehörte zu den bedeutendsten Vertretern dieser Porträtrichtung. Während das Bildnis in seiner Gesamtstruktur dem Oeuvre des Künstlers sehr nahekommt, verweist die Ausführung im Detail, speziell dem Pinselduktus, auf die Hand eines Kopisten des 17. Jahrhunderts. Werke von Jan Mijtens, vor allem Bildnisse von Mitgliedern der Fürstenfamilien Oranien-Nassau, Nassau-Dietz, Hohenzollern und Anhalt-Dessau wurden häufig kopiert, meist wenige Jahre nach der Fertigstellung des Originals. Kopien gingen unter anderem an Verwandte, Bekannte und Bedienstete der Auftraggeber des Originalbildnisses, so vermutlich auch in diesem Fall. Als Kopist nach Gemälden von Mijtens sind unter anderem die Maler Poul van der Stock und Jean Gericot bekannt. \r\n\r\nDas Bildnis der Kurfürstin wurde in den 1990er Jahren im Kunsthandel erworben. Derzeit wird es im Schloss Oranienburg präsentiert. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Jan Mytens",
+        "date": "1665",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37965/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37965",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jan Mytens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1665"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37965/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38715/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzE1L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38715/manifest",
+        "title": "Kurprinz Karl Emil von Brandenburg (1655-1674) als Elfjähriger",
+        "description": "Kurprinz Karl Emil von Brandenburg ist als Dreiviertelfigur im Bildtypus des Feldherrenporträts wiedergegeben. Sein rechter Arm ruht locker auf einem Säulenkapitell, das als Postament fungiert, während er in der rechten Hand ein Zepter hält. Die linke Hand weist nach unten. Der Dargestellte wird von einer Felswand hinterfangen, die in der rechten Bildhälfte den Blick auf eine idyllische Landschaft freigibt. Er ist in ein fliederfarbenes Untergewand und ein orangefarbenes, antikisierendes Phantasiekostüm mit militärischen Anleihen gekleidet, während ein messingfarbener Umhang um die Schultern geknotet ist. \r\n\r\nDie Geburt des Kurprinzen Karl Emil im Jahr 1655 war nach dem Tode seines älteren Bruders Wilhelm Heinrich im Jahr 1649 und nach verschiedenen Fehlgeburten der Kurfürstin Louise Henriette von Brandenburg ein Ereignis von größter Bedeutung für den Fortbestand der Dynastie. Charakterlich und äußerlich ganz das Ebenbild des Vaters, stellte Karl Emil in den Augen des Kurfürsten einen idealen Nachfolger dar. Seit seiner Kindheit hatte er ein lebhaftes und leicht aufbrausendes Wesen. So war er auch an militärischen Dingen und der Jagd weitaus mehr interessiert als am Unterricht. Während des Niederländisch-Französischen Krieges erkrankte der Kurprinz während eines Besuchs der Truppen im Elsaß schwer und verstarb 1674 im Alter von nur neunzehn Jahren. Sein zwei Jahre jüngerer Bruder Friedrich trat an die Stelle des Kurprinzen und wurde 1688 Kurfürst von Brandenburg. \r\n\r\nBildtypus, Komposition und Kleidung des Porträts finden sich in vergleichbarer Form häufig im Oeuvre des angesehenen Haager Porträtisten Jan Mijtens, dem das Bild zugeschrieben wird. So lassen sich Ähnlichkeiten zu dem Bildnis von Hendrik Casimir II. von Nassau-Dietz, einem Vetter des Dargestellten, erkennen, das ebenfalls in die Zeit um 1666-1667 zu datieren ist (Stichting Historische Verzamelingen van het Huis Oranje-Nassau). Auch das Bildnis des Admirals Cornelis Tromp aus dem Jahr 1668 (Amsterdam, Rijksmuseum, Inventarnr. A 284), weist Ähnlichkeiten zu dem Porträt Karl Emils auf. Jan Mijtens war in der Zeit um 1650-1670 neben Adriaen Hanneman einer der bekanntesten Vertreter der Haager Bildnismalerei. Mit ihren eleganten Posen, der Situierung der Dargestellten vor Landschaftshintergrund und ihren farbenfrohen Kostümen übernahmen die Haager Maler Elemente der flämisch-englischen Bildnismalerei Anthonis van Dycks, die bei Hofe sehr beliebt war. Auch Mijtens führte seit den 1660er Jahren Aufträge für Mitglieder der Familien Oranien-Nassau, Nassau-Dietz, Anhalt-Dessau und Hohenzollern aus. Für verschiedene Aufträge dieser Familien reiste er 1666 nach Kleve, wo sich die Kurfürstenfamilie und ihre Verwandten für die Hochzeit der Schwägerin des Kurfürsten, Maria von Oranien-Nassau, eingefunden hatten. Dort fertigte der Künstler vermutlich physiognomische Studien an. So scheint auch das Bildnis Karl Emils auf denselben physiognomischen Studien zu beruhen, die als Vorlage für das ebenfalls 1666 entstandene Porträt Karl Emils im Familienbildnis des Großen Kurfürsten (GK I 1019) dienten oder scheint zumindest in direktem Zusammenhang mit ihm entstanden zu sein. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Jan Mytens",
+        "date": "1666",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/38236/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/38236",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jan Mytens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1666"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/38236/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38716/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzE2L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38716/manifest",
+        "title": "Allegorie auf Geburt und Tod des Kurprinzen Wilhelm Heinrich von Brandenburg (1648-1649)",
+        "description": "Der im Mai 1648 geborene Kurprinz Wilhelm Heinrich war der erste Sohn des Kurfürsten Friedrich Wilhelm von Brandenburg und seiner Ehefrau, Prinzessin Louise Henriette von Oranien-Nassau, die im Dezember 1646 geheiratet hatten. Dementsprechend war seine Geburt, die das Fortleben der Dynastie zu sichern schien, ein Ereignis von internationaler Bedeutung. So zeigt die Allegorie auf die Geburt (und den Tod) des Kurprinzen den nur wenige Wochen alten Jungen in einer goldenen Wiege, die als Zeichen der Nobilitierung thronähnlich auf einem erhöhten Treppenabsatz steht und von einer baldachinartigen Draperie überfangen wird. Verschiedene Gottheiten haben sich bei dem Kind eingefunden, darunter Minerva, Juno, Venus und Amor. Von der Fruchtbarkeit der Familie, aber auch vom zukünftigen Gedeihen des Staates unter dem potentiellen späteren Kurfürsten zeugt die Personifikation des Überflusses mit Füllhorn und Früchten. In einer Wolkenebene über dem Geschehen schwebend, verkündet Fama mit einer Posaune und einem Orangenzweig in ihren Händen die Geburt des Kurprinzen als kurbrandenburgischem Hoffnungsträger. Putten tragen die Insignien der kurfürstlichen Macht - Kurmantel, Kurhut und Zepter - ebenso wie das kurbrandenburgische Wappen und eine Krone, die auf die Position des Kurfürsten als Herzog von Kleve verweist. Doch auch die Herkunft Wilhelm Heinrichs als Sohn einer oranischen Prinzessin wird durch einen Orangenzweig in Händen Famas verdeutlicht. Der Hintergrund des Bildes zeigt die Klever Schwanenburg, in der der Kurprinz 1648 während eines längeren Aufenthaltes des Kurfürstenpaares geboren wurde. Ein stark bewölkter Himmel, durch dessen Wolken ein Lichtstrahl spotartig auf die Schwanenburg fällt, deutet eine Art göttlicher Verklärung an und verweist auf die große Bedeutung des Ereignisses sowohl für das Haus Hohenzollern als auch für die Familie Oranien-Nassau. \r\n\r\nDas Gemälde entstand in zwei Phasen. Da der Kurprinz kurz nach dem ersten Fertigstellungsprozess im Alter von anderthalb Jahren verstarb, fügte Flinck hinter der Wiege eine Allegorie des Todes in Form eines Skeletts ein, das mit seiner Lanze in Richtung des Kindes zielt. Ein 1649 von Cornelis van Dalen II. nach dem Gemälde angefertigter Kupferstich zeigt das Gemälde noch in seiner ersten Fassung. Von der Beliebtheit des Gemäldes zeugen spätere Kupferstiche, welche die Komposition in leicht veränderter Form wiederholen und inhaltlich umdeuten, beispielsweise als Allegorien auf die Geburt des Prinzen Willem III. von Oranien-Nassau, der Maria Amalia von Nassau-Dietz sowie als Allegorie auf den Frieden von Rijswijk.\r\n\r\nDer in Kleve geborene Flinck gehörte zur Zeit der Anfertigung des Bildnisses zu den gefragtesten Malern Amsterdams. Nach einer Lehre und Assistenz bei Rembrandt änderte er in den 1640er Jahren seinen künstlerischen Stil und übernahm in Kolorit und Pinselduktus Elemente der am Hof beliebten flämischen Malweise. Nachdem er in den 1640er Jahren zunehmend für wohlhabende Kaufleute und die politische Elite Amsterdams tätig geworden war, führte er ab 1648 verschiedene Gemälde für den Kurfürsten von Brandenburg aus, darunter als ersten Auftrag die „Allegorie auf die Geburt und den Tod des Kurprinzen Wilhelm Heinrich“. Die Mutter des Kindes, Kurfürstin Louise Henriette, bewahrte das Gemälde zeitlebens in ihren Gemächern im Berliner Schloss auf. Heute wird das Bild im Schloss Oranienburg gezeigt. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Govert Flinck",
+        "date": "1648-1649",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37967/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37967",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Govert Flinck"
+          },
+          {
+            "label": "gemalt",
+            "value": "1648-1649"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37967/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38717/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzE3L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38717/manifest",
+        "title": "Markgraf Ludwig von Brandenburg (1666-1687)",
+        "description": "Das ca. 1682 entstandene kleinformatige Bildnis zeigt den ungefähr fünfzehnjährigen Markgrafen im Bildausschnitt des Kniestücks in Rüstung vor einer kostbaren Draperie, die ihn auf der linken Bildseite leicht hinterfängt. Rechts neben ihm erkennt man einen mit blauen Federn geschmückten Helm, der neben dem hermelingesäumten Kurmantel auf einem Tisch liegt. Mit der Rechten hält der Dargestellte energisch einen Feldherrnstab umschlossen, während die Linke elegant auf dem Helm ruht. Ein Spitzenschal, der in seiner Gestaltung auf die 1680er Jahre verweist und eine dunkelblonde schulterlange Lockenperücke sind modische Zutaten, welche die militärische Ausprägung des Porträts auflockern.\r\n\r\nDer 1666 in Kleve geborene Markgraf Ludwig von Brandenburg war das jüngste von sechs Kindern des Kurfürsten Friedrich Wilhelm von Brandenburg und seiner ersten Ehefrau, Louise Henriette von Oranien-Nassau. Nachdem der Kurfürst ihn im Alter von vierzehn Jahren aus politischen Gründen mit der dreizehnjährigen reichen Erbin Louise Charlotte von Radziwiłl verheiratet hatte, wurde Ludwig 1682 für drei Monate auf eine Kavalierstour in die Republik der Vereinigten Niederlande geschickt. Dort sollte er seine Ausbildung vollenden und den Kontakt zu seinem Cousin Willem III. von Oranien-Nassau, dem Statthalter der Republik, verstärken. Dieser hatte seit 1680 wiederholt geäußert, Ludwig zu seinem Nachfolger ernennen zu wollen, sollte er sterben, ohne Kinder zu hinterlassen. Während seiner Reise in die Republik der Vereinigten Niederlande besuchte der Markgraf unter anderem Den Haag und ließ dort vermutlich das Bildnis durch Caspar Netscher anfertigen. \r\n\r\nNetscher, der sich seit 1662 in Den Haag angesiedelt hatte, glich seinen Porträtstil schon bald demjenigen seiner beliebten Haager Kollegen Adriaen Hanneman und Jan Mijtens an. Im Gegensatz zu ihnen konzentrierte er sich weitgehend auf das kleinformatige Bildnis in Dreiviertelfigur. Das Gemälde zeigt den Markgrafen Ludwig von Brandenburg im Typus des Feldherrnbildnisses in Rüstung und spielt hiermit auf die militärischen Funktionen des Prinzen an. Bereits im Alter von zehn Jahren hatte Ludwig durch Willem III. von Oranien-Nassau das (Ehren-) Kommando über eine Kompanie in Diensten der niederländischen Generalstaaten erhalten. Zusätzlich erhielt er 1682 von seinem Vater, dem Großen Kurfürsten, ein kurbrandenburgisches Dragonerregiment. In beiden Fällen wurde er jedoch nie direkt in militärische Aktionen eingebunden. Nur fünf Jahre nach Anfertigung des Bildnisses verstarb Ludwig 1687 im Alter von zwanzig Jahren unter nicht vollständig geklärten Umständen während eines Aufenthaltes im Potsdamer Stadtschloss. \r\n\r\nDas Bildnis gelangte im frühen 19. Jahrhundert über die Erbschaft des Staatsministers Thulemeyer in die preußischen Sammlungen und befand sich 1830-1906 im Königlichen Museum in Berlin. Heute wird es im Schloss Oranienburg gezeigt. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Caspar Netscher",
+        "date": "1682",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/38235/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/38235",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Caspar Netscher"
+          },
+          {
+            "label": "gemalt",
+            "value": "1682"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/38235/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38718/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzE4L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38718/manifest",
+        "title": "Kurfürstin Dorothea von Brandenburg (1636-1689) im Blumen- und Früchtekranz",
+        "description": "Die Darstellung zeigt eine gemalte steinerne Kartusche mit dem Bildnis der Kurfürstin Dorothea von Brandenburg (1636-1689), das von Phantasiefiguren gehalten wird und von einem Kranz aus Blumen und Früchten eingerahmt ist. Man erkennt eine Zusammenstellung von Pflanzen und Früchten der unterschiedlichsten Jahreszeiten, wie sie im 17. Jahrhundert nie zur selben Zeit vorkamen: unter anderem Pfingstrosen, Sonnenblumen, Ackerwinde, eine Schachbrettblume, Tulpen, Rosen, einige Kornähren und Lilien sowie Aprikosen, Orangen, Weintrauben, Erdbeeren, Pfirsiche, Johannisbeeren, Kirschen, Pflaumen und Maiskolben. Ein lebendiges Element stellt die Wiedergabe von einigem Getier im Arrangement dar, unter anderem Schmetterlinge, Falter, Maikäfer, ein Grashüpfer, eine Spinne und eine Eidechse. \r\n\r\nDer Typus des gemalten Blumen- oder Früchtekranzes, der eine Historiendarstellung oder ein Bildnis einrahmt, ist traditionell der flämischen Malerei zuzuordnen. Eine besondere Kunstfertigkeit in der Darstellung derartiger Kompositionen erlangte unter anderem der flämische Pater Daniel Seghers. Während er die Blumenarrangements schuf, wurden die Historiendarstellungen oder Bildnisse meist von anderen bekannten Künstlern angefertigt. \r\n\r\nEinige vergleichbare Gemälde von Daniel Seghers befanden sich seit den 1640er Jahren in der Sammlung der Oranier, der Familie der ersten Frau des brandenburgischen Kurfürsten Friedrich Wilhelm, Louise Henriette von Oranien-Nassau (1627-1667). Hier hatte der Kurfürst Bekanntschaft mit Seghers‘ Stillleben machen und eine Vorliebe für sie entwickeln können. In den späten 1640er Jahren trat er selbst in Kontakt mit dem Künstler und erwarb ab 1652 vier seiner Gemälde. \r\n\r\nDiese Vorliebe spiegelt auch die Darstellung der Kurfürstin Dorothea im Blumen- und Früchtekranz wieder. Der in Göteborg geborene Ottmar Elliger, Hofmaler des Kurfürsten Friedrich Wilhelm von Brandenburg, hatte in der Antwerpener Werkstatt von Daniel Seghers seine Ausbildung erfahren. Anschließend war er einige Jahre in Antwerpen, Amsterdam, Kopenhagen und Hamburg tätig, bevor er um 1670 an den Berliner Hof kam, wo er bis zu seinem Tod im Jahr 1679 blieb. Möglich ist, dass Elliger, wie zuvor sein Lehrer, die Früchte und Blumen schuf, während ein anderer Hofmaler das Bildnis anfertigte. Das um 1670-1679 entstandene Bildnis der Kurfürstin Dorothea im Blumen- und Früchtekranz befand sich bis ins 19. Jahrhundert im Berliner Schloss. Heute wird das Gemälde im Schloss Caputh präsentiert. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Ottmar Elliger",
+        "date": "1670-1675",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37969/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37969",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Ottmar Elliger"
+          },
+          {
+            "label": "gemalt",
+            "value": "1670-1675"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Dorothea Sophie von Schleswig-Holstein-Sonderburg-Glücksburg"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37969/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38719/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzM4NzE5L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/38719/manifest",
+        "title": "Willem (Wilhelm) III. von Oranien (1650-1702)",
+        "description": "Das 1674 entstandene Bildnis zeigt Wilhelm III. von Oranien-Nassau zwei Jahre nachdem er das Amt des Statthalters der Republik der Vereinigten Niederlande angetreten hatte. 22 Jahre nach dem Tod seines Vaters, Statthalter Wilhelm II. (1626-1650) und der anschließenden „Ersten statthalterlosen Periode“ war Wilhelm III. 1672 zu Beginn des Niederländisch-Französischen Krieges zum Oberbefehlshaber der Armee der niederländischen Republik und zu deren Statthalter ernannt worden. So zeigt ihn das Porträt auch als tatkräftigen Feldherrn im Feldlager. In ganzer Figur ist er in Rüstung in einem Zelt wiedergegeben, den Feldherrnstab fest mit der rechten Hand umschlossen. Mit der Linken verweist er auf den Zeltausgang, vor dem sein Pferd herangeführt wird. \r\n\r\nDa die Gesundheit Wilhelms III. wegen einer Lungenerkrankung sehr instabil war und die 1677 geschlossene Ehe mit der englischen Prinzessin Mary Stuart (1662-1694) kinderlos blieb, war die Frage seiner Nachfolge von großer Brisanz. Verschiedentlich bedeutete der Oranier dem Kurfürsten Friedrich Wilhelm von Brandenburg zwischen 1679 und 1685, er würde seine Nachfolge dessen Söhnen übertragen wollen. Besonders sein wesentlich jüngerer Cousin, Markgraf Ludwig von Brandenburg (1666-1687), den er nach eigenen Aussagen wie einen Sohn liebte, schien er hierfür in Betracht zu ziehen. Die Äußerungen des Oraniers standen jedoch stets in Zusammenhang mit seinen politischen Zielen, da er in dieser Zeit vergeblich eine Einbindung Kurbrandenburgs in eine anti-französische Allianz anstrebte und die Nachfolgeoption in diesem Zusammenhang als Lockmittel verwendete. Unverrückbar glaubte der Kurfürst jedoch bis zu seinem Tod an die Nachfolgeregelung zugunsten eines seiner Söhne. Dabei pochte der Hohenzoller gleichzeitig auf die testamentarischen Bestimmungen seines Schwiegervaters Friedrich Heinrich von Oranien-Nassau (1584-1647) von 1644, die festlegten, dass die Nachfolge im Statthalteramt über die Söhne seiner ältesten Tochter, Kurfürstin Louise Henriette von Brandenburg, verlaufen sollte, würde die Linie Oranien-Nassau im männlichen Stamm erlöschen. \r\n\r\nSchlussendlich entschied sich Wilhelm III. jedoch gegen eine kurbrandenburgische Nachfolge. Während er 1676 noch einen weit entfernten Verwandten als Universalerben einsetzte, wurde 1695 der Sohn seines Cousins Hendrik Casimir II. von Nassau-Dietz (1657-1696) – Johann Wilhelm Friso (1687-1711) – testamentarisch zu seinem Alleinerben und Nachfolger bestimmt. Nach dem Tod Wilhelms III. entbrannte 1702 ein langjähriger Streit zwischen den Hohenzollern und der Familie Nassau-Dietz um sein Erbe.\r\n\r\nDas 1674 entstandene Bildnis des Statthalters von der Hand des Haager Porträtisten Caspar Netscher befand sich erst kurz in der Sammlung der Statthalterwitwe Amalia von Solms, als diese 1675 starb. Ihr Erbe fiel ihren drei Töchtern, sowie ihren Enkeln, Kurprinz Friedrich und Markgraf Ludwig von Brandenburg (anstelle der bereits verstorbenen Tochter Louise Henriette) zu. Unter anderem hinterließ sie den Enkeln kostbare Kunstgegenstände, darunter auch zahlreiche herausragende Gemälde. Das Bildnis Netschers befand sich im Erbteil des Kurprinzen Friedrich und wurde damals auf 350 Florins geschätzt. Für die Beliebtheit des Bildnisses sprechen zahlreiche Kopien anderer Künstler. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Caspar Netscher",
+        "date": "1674",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/37970/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/37970",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Caspar Netscher"
+          },
+          {
+            "label": "gemalt",
+            "value": "1674"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/37970/full/,100/0/default.jpg"
       }
     ],
     "stats": {
-      "totalObjects": 96,
+      "totalObjects": 129,
       "earliestYear": 1537,
       "latestYear": 1866,
-      "uniqueArtists": 46
+      "uniqueArtists": 62
     }
   }
 }

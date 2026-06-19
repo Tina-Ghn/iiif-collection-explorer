@@ -1,0 +1,2364 @@
+{
+  "generatedAt": "2026-06-19T17:45:39.761Z",
+  "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/collection/c217",
+  "complete": false,
+  "collection": {
+    "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/collection/c217",
+    "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/collection/c217",
+    "title": "Gemäldesammlung",
+    "generatedAt": "2026-06-19T17:45:39.761Z",
+    "objects": [
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7293/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7293/manifest",
+        "title": "Urteil des Paris",
+        "description": "Das \"Urteil des Paris\" gehört zu einer Serie von vier Gemälden, die Lucas Cranach d.Ä. und dessen Werkstatt um 1540-1545 vermutlich im Auftrag des brandenburgischen Kurfürsten Joachim II. schuf und die im neu erbauten \"Stechbahhnflügel\" des Berliner Schlosses öffentlich präsentiert wurde. Die so genannten \"Exemplum-Tafeln\" sind Allegorien vorbildlichen beziehungsweise tadelswerten menschlichen Verhaltens. Als Herrscherallegorien mahnten sie den Herrscher, dem guten Beispiel zu folgen. Das \"Urteil des Paris\", eine Historie der antiken Mythologie, mahnte vor den Folgen einer schlechten Entscheidung: Paris sollte unter den Göttinnen Aphrodite, Hera und Athene die Schönste auswählen. Er entschied sich für Aphrodite, die ihm die Liebe der schönsten Frau auf Erden versprochen hatte, Helenas. Die Folgen dieser Wahl sind katastrophal, der trojanische Krieg entbrennt. \r\n\r\nDas Gemälde wird im Jagsdschloss Grunewald gezeigt. \r\n\r\nA. Bauer (30.10.2017)",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1540-1545",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16520/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16520",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1540-1545"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16520/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7294/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7294/manifest",
+        "title": "Bathseba",
+        "description": "Die Darstellung der \"David und Bathseba\" gehört zu einer Serie von vier Gemälden, die Lucas Cranach d.Ä. und dessen Werkstatt um 1540-1545 vermutlich im Auftrag des brandenburgischen Kurfürsten Joachim II. schuf und die im neu erbauten \"Stechbahhnflügel\" des Berliner Schlosses öffentlich präsentiert wurde. Die so genannten \"Exemplum-Tafeln\" sind Tugendallegorien vorbildlichen beziehungsweise tadelswerten menschlichen Verhaltens. Als Herrscherallegorien mahnten sie den Herrscher, dem guten Beispiel zu folgen. Im Fall der im Alten Testament geschilderten Geschichte der \"Bathseba\" warnten sie vor der \"Weibermacht\" und der verführerischen Frau. König David hatte sich in die mit seinem Feldherrn Uria verheiratete Bathseba verliebt, als er sie beim Baden beobachtete. Um sie heiraten zu können, schickte er ihren Mann in den Krieg, wo er umkam. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald gezeigt. \r\n\r\nA. Bauer (30.10.2017)",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1540-1545",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16521/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16521",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1540-1545"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16521/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7295/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7295/manifest",
+        "title": "David und Goliath",
+        "description": "\"David und Goliath\" gehört zu einer Serie von vier Gemälden, die Lucas Cranach d.Ä. und dessen Werkstatt vermutlich im Auftrag des brandenburgischen Kurfürsten Joachim II. schufen und die im neu erbauten \"Stechbahhnflügel\" des Berliner Schlosses öffentlich präsentiert wurden. Die so genannten \"Exemplum-Tafeln\" sind Allegorien vorbildlichen beziehungsweise tadelswerten menschlichen Verhaltens. Als Herrscherallegorien mahnten sie den Herrscher, dem guten Beispiel zu folgen. Die alttestamentliche Historie \"David und Goliath\" diente als Tugendbeispiel für Mut und Tapferkeit. Der Hirtenjunge David hatte das Volk der Israeliten errettet, indem er den schwer bewaffneten Heerführer der Philister, Goliath, nur mit einer Steinschleuder bewaffnet besiegte. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald, Berlin, gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1540-1545",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16522/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16522",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1540-1545"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16522/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7296/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7296/manifest",
+        "title": "Auferstehung Christi",
+        "description": "Kurfürst Joachim II. von Brandenburg ließ 1537/1538 für die in direkter Nähe zum Berliner Schloss gelegene Stiftskirche 14 Altäre mit Gemälden Cranachs d.Ä. und dessen Werkstatt verzieren. Hiervon haben sich nur neun Mitteltafeln erhalten, die Szenen aus der Passion Christi zeigen, darunter die \"Auferstehung Christi\". Die Seitentafeln zeigten vermutlich Heiligendarstellungen, die wahrscheinlich einem \"Bildersturm\" zu Beginn des 17. Jahrhunderts zum Opfer fielen. Zur gleichen Zeit wurden auch die Mitteltafeln aus der Stiftskirche entfernt und in die Erasmuskapelle des Berliner Schlosses verbracht. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald in Berlin gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1537-1538",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16523/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16523",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1537-1538"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16523/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7297/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7297/manifest",
+        "title": "Kreuztragung",
+        "description": "Kurfürst Joachim II. von Brandenburg ließ 1537/1538 für die in direkter Nähe zum Berliner Schloss gelegene Stiftskirche 14 Altäre mit Gemälden Cranachs d.Ä. und dessen Werkstatt verzieren. Hiervon haben sich nur neun Mitteltafeln erhalten, die Szenen aus der Passion Christi zeigen, darunter die \"Kreuztragung\". Die Seitentafeln zeigten vermutlich Heiligendarstellungen, die wahrscheinlich einem \"Bildersturm\" zu Beginn des 17. Jahrhunderts zum Opfer fielen. Zur gleichen Zeit wurden auch die Mitteltafeln aus der Stiftskirche entfernt und in die Erasmuskapelle des Berliner Schlosses verbracht. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1537-1538",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16524/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16524",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1537-1538"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16524/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7298/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7298/manifest",
+        "title": "Ecce homo",
+        "description": "Kurfürst Joachim II. von Brandenburg ließ 1537/1538 für die in direkter Nähe zum Berliner Schloss gelegene Stiftskirche 14 Altäre mit Gemälden Cranachs d.Ä. und dessen Werkstatt verzieren. Hiervon haben sich nur neun Mitteltafeln erhalten, die Szenen aus der Passion Christi zeigen, darunter \"Ecce Homo\". Die Seitentafeln zeigten vermutlich Heiligendarstellungen, die wahrscheinlich einem \"Bildersturm\" zu Beginn des 17. Jahrhunderts zum Opfer fielen. Zur gleichen Zeit wurden auch die Mitteltafeln aus der Stiftskirche entfernt und in die Erasmuskapelle des Berliner Schlosses verbracht. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald, Berlin, gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1537",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16525/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16525",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1537"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16525/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7299/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzcyOTkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7299/manifest",
+        "title": "Dornenkrönung Christi",
+        "description": "Kurfürst Joachim II. von Brandenburg ließ 1537/1538 für die in direkter Nähe zum Berliner Schloss gelegene Stiftskirche 14 Altäre mit Gemälden Cranachs d.Ä. und dessen Werkstatt verzieren. Hiervon haben sich nur neun Mitteltafeln erhalten, die Szenen aus der Passion Christi zeigen, darunter die \"Dornenkrönung Christi\". Die Seitentafeln zeigten vermutlich Heiligendarstellungen, die wahrscheinlich einem \"Bildersturm\" zu Beginn des 17. Jahrhunderts zum Opfer fielen. Zur gleichen Zeit wurden auch die Mitteltafeln aus der Stiftskirche entfernt und in die Erasmuskapelle des Berliner Schlosses verbracht. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald in Berlin gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1537",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16526/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16526",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1537"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16526/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7300/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7300/manifest",
+        "title": "Der Gendarmenmarkt im Winter",
+        "description": "Der Berliner Gendarmenmarkt gehört zu den beeindruckendsten Platzanlagen der Stadt. Bereits unter Kurfürst Friedrich III. von Brandenburg (1657-1713) um 1700 mit der deutschen und der französischen Kirche innerhalb der damaligen \"Friedrichstadt\" angelegt, ist der Platz heute weitgehend durch die Gestaltung geprägt, die er unter König Friedrich II. von Preußen (1712-1786) erhielt. Platz- und bildbestimmend sind der deutsche und der französische Dom mit ihren gleichartigen Kuppeltürmen, die in den 1780er Jahren erbaut wurden. Zwischen ihnen erkennt man das nach Plänen Karl Friedrich Schinkels errichtete, 1821 fertiggestellte Schauspielhaus. Seit dem frühen 18. Jahrhundert war das namensgebende Regiment Gens d`armes an dem Platz angesiedelt. Seit 1729 wurde er auch als Marktplatz genutzt.\r\n\r\nEduard Gärtner gehörte zu den berühmtesten Malern der Stadtvedute des Biedermeier. Seine Ansichten von Berlin, Paris und Moskau gehören zu den besten Architekturdarstellungen, die die deutsche Malerei des 19. Jahrhunderts hervorgebracht hat. Seine Gemälde zeichnen sich neben ihrer Akkuratesse gleichzeitig durch eine äußerst lebendige Darstellung aus. So zeigt auch der \"Gendarmenmarkt im Winter\" eine Vielzahl von Staffagefiguren, die das Marktgeschehen auf dem Platz bevölkern. Der gekonnte Einsatz von Licht- und Schattenpartien sowie die meisterliche Handhabung des Kolorits ermöglichen es dem Betrachter die winterlich kühle Atmosphäre des schneebedeckten Platzes nachzuempfinden. \r\n\r\nDas Gemälde wird heute im Neuen Pavillon im Park von Schloss Charlottenburg gezeigt. \r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Eduard Gaertner",
+        "date": "1857",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16527/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16527",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Eduard Gaertner"
+          },
+          {
+            "label": "gemalt",
+            "value": "1857"
+          },
+          {
+            "label": "wurde abgebildet in",
+            "value": "Gendarmenmarkt (Berlin)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16527/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7301/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7301/manifest",
+        "title": "Das Tabakskollegium König Friedrichs I. in Preußen (1657-1713) in der Drap d`or-Kammer des Berliner Schlosses",
+        "description": "König Friedrich I. in Preußen (1657-1713) begründete 1709 auf einer Reise nach Westpreußen die Tradition des Tabakskollegiums am preußischen Hof, das seit der Rückkehr nach Berlin in der Drap d`or-Kammer des Berliner Schlosses abgehalten wurde. Der Raum, in dem tagsüber Versammlungen des Wirklichen Geheimen Rates und des Wirklichen Geheimen Kriegsrates stattfanden, war Teil der wenige Jahre zuvor von Andreas Schlüter errichteten Paradekammern, den bedeutenden Staatsgemächern der Residenz. Zu den Mitgliedern des Tabakskollegiums gehörten auch der Kronprinz Friedrich Wilhelm (I.) und die Halbbrüder des Königs (die Markgrafen von Brandenburg-Schwedt) sowie die Geheimen Räte und andere ranghohe Herren. Die dritte Ehefrau Friedrichs, Königin Sophie Luise, wurde im Jahr 1710 in die Runde aufgenommen. Der zeremoniellen Rangfolge entsprechend, sitzt das Königspaar auf prunkvollen Armlehnstühlen, während die anderen Teilnehmer der Runde mit einfacheren Stühlen ohne Lehne auskommen müssen. Fast zwanglos erscheint jedoch die Platzierung im Raum, an einem Tisch, nicht, wie bei repräsentativen Anlässen üblich, unter dem links im Bild gezeigten Baldachin (dais). Verschiedene \"Kammermohren\" und ein \"Kammertürke\", die seit dem ausgehenden 17. Jahrhundert als Hofpersonal auch am kurbrandenburgischen Hof üblich waren, bedienen die Gesellschaft. \r\n\r\nDas Gemälde wird heute im Schloss Charlottenburg gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Paul Carl Leygebe",
+        "date": "1710",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16528/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16528",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Paul Carl Leygebe"
+          },
+          {
+            "label": "gemalt",
+            "value": "1710"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16528/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7302/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7302/manifest",
+        "title": "Golf von La Spezia",
+        "description": "Bei dem \"Golf von La Spezia\" handelt es sich um eines der ersten großformatigen Gemälde, die Blechen nach der Rückkehr von seinem einjährigen Italienaufenthalt (1829/1839) schuf. Blechen hatte den Golf von La Spezia auf seiner Rückreise von Neapel nach Rom Anfang Oktober 1829 besucht, wo er die Landschaft in seinem Skizzenbuch festhielt. In Öl ausgeführte Studien zu dem Gemälde befinden sich in den Sammlungen der Akademie der Künste, Berlin und der Alten Nationalgalerie Berlin. Im Vergleich zu früheren Werken zeigt das Bild, das deutlich unter dem Eindruck der Italienreise und des südlichen Lichts entstand, eine hellere, intensivere Farbpalette. Der Künstler legte nun größeres Augenmerk auf die Wiedergabe der Stimmungen der Natur. Das Gemälde wurde von König Friedrich Wilhelm IV. von Preußen 1853 aus der Versteigerung des Nachlasses der Witwe Henriette Blechen erworben. \r\n\r\nDas Gemälde wird im Neuen Pavillon, Berlin, gezeigt. \r\n\r\nA. Bauer",
+        "creator": "Carl Blechen",
+        "date": "1830",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16529/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16529",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Carl Blechen"
+          },
+          {
+            "label": "gemalt",
+            "value": "1830"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16529/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7303/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7303/manifest",
+        "title": "Die heilige Familie (Die beiden heiligen Familien)",
+        "description": "Die Darstellung der \"Beiden heiligen Familien\" zeigt Christus und Johannes als Knaben mit einem Vogel spielend, vom Sonnenschein erhellt, sowie - weiter im Schatten - Maria und Josef, Elisabeth und Zacharias (die Eltern des Johannes). Adriaen van der Werff gehörte um 1700 zu den bedeutendsten Vertretern der klassizistischen Malerei der nördlichen Niederlande. Während er anfänglich Genreszenen im Stile der Leidener Feinmaler sowie Porträts schuf, war er später vor allem für seine Historienszenen und mythologischen Darstellungen bekannt. Auch das 1709 entstandene Gemälde \"Die heilige Familie\" ist in diese späte Hauptphase seines Schaffens, einzuordnen. In dieser Phase (1696-1716) war er als Hofmaler des Kurfürsten Johann Wilhelm von der Pfalz tätig, arbeitete jedoch gleichzeitig in Rotterdam für andere Auftraggeber. König Friedrich II. von Preußen, der das Bild 1757 auf einer Amsterdamer Nachlassauktion ankaufen ließ, war ein begeisterter Sammler seiner Arbeiten. So ist die \"Heilige Familie\" eines von über 25 Gemälden des Künstlers (und aus dessen näherem Umkreis), die der König seit den 1750er Jahren für die Bildergalerie von Sanssouci erwerben ließ. Präsentiert wurden sie in dem am östlichen Ende der Galerie gelegenen Kabinett, das in den unteren Reihen der Hängung vor allem kleinformatige Gemälde aufnahm. Heute kann nur noch ein einziges originales Werk Adriaen van der Werffs in der Bildergalerie gezeigt werden. Der Großteil gehört zu den Kriegsverlusten der Schlösser. \r\n\r\nDas Gemälde wird in der Bildergalerie von Sanssouci gezeigt. \r\n\r\nA. Bauer (November 2016 / September 2017)",
+        "creator": "Adriaen van der Werff",
+        "date": "1709",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16530/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16530",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Adriaen van der Werff"
+          },
+          {
+            "label": "gemalt",
+            "value": "1709"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16530/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7304/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7304/manifest",
+        "title": "Geißelung Christi",
+        "description": "Kurfürst Joachim II. von Brandenburg ließ 1537/1538 für die in direkter Nähe zum Berliner Schloss gelegene Stiftskirche 14 Altäre mit Gemälden Cranachs d.Ä. und dessen Werkstatt verzieren. Hiervon haben sich nur neun Mitteltafeln erhalten, die Szenen aus der Passion Christi zeigen, darunter die \"Geißeiung Christi\". Die Seitentafeln zeigten vermutlich Heiligendarstellungen, die wahrscheinlich einem \"Bildersturm\" zu Beginn des 17. Jahrhunderts zum Opfer fielen. Zur gleichen Zeit wurden auch die Mitteltafeln aus der Stiftskirche entfernt und in die Erasmuskapelle des Berliner Schlosses verbracht.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Lucas Cranach (der Ältere)",
+        "date": "1537",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16531/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16531",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1537"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16531/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7305/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7305/manifest",
+        "title": "Christus in der Vorhölle",
+        "description": "Kurfürst Joachim II. von Brandenburg ließ 1537/1538 für die in direkter Nähe zum Berliner Schloss gelegene Stiftskirche 14 Altäre mit Gemälden Cranachs d.Ä. und dessen Werkstatt verzieren. Hiervon haben sich nur neun Mitteltafeln erhalten, die Szenen aus der Passion Christi zeigen, darunter die \"Christus in der Vorhölle\". Die Seitentafeln zeigten vermutlich Heiligendarstellungen, die wahrscheinlich einem \"Bildersturm\" zu Beginn des 17. Jahrhunderts zum Opfer fielen. Zur gleichen Zeit wurden auch die Mitteltafeln aus der Stiftskirche entfernt und in die Erasmuskapelle des Berliner Schlosses verbracht. \r\n\r\nDas Gemälde wird im Jagdschloss Grunewald in Berlin gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16731/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16731",
+        "metadata": [
+          {
+            "label": "hergestellt von",
+            "value": "Lucas Cranach (der Ältere)"
+          },
+          {
+            "label": "hergestellt",
+            "value": "1538"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16731/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7306/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7306/manifest",
+        "title": "Meleager und Atalante",
+        "description": "Die auf dem Gemälde wiedergegebene Begebenheit entstammt der griechischen Mythologie: Die Jagd auf den Kalydonischen Eber: Ein Eber hatte große Verwüstungen auf den Ländereien der Stadt Kalydon angerichtet, so dass man die berühmtesten griechischen Helden aufforderte, sich an einer Jagd zu beteiligen und das Tier unschädlich zu machen. An der Jagd nahmen auch der Königssohn Meleager und die Jägerin Atalante teil. Da sie es war, die dem Tier die erste Verwundung zugefügt hatte, übergab der in Atalante verliebte Meleager ihr in galanter Geste die Jagdtrophäe. Das Thema war in der nord- und südniederländischen Malerei des 17. Jahrhunderts sehr beliebt. Das Gemälde Honthorsts stammt aus der Sammlung des niederländischen Statthalters Frederik Hendrik van Oranje-Nassau (1584-1647) und dessen Erben und befand sich um 1700 im Schloss Honselaersdijk, wo es als Kaminstück besonders gewürdigt wurde. 1742 gelangte es mit den Beständen der sogenanten \"Oranischen Erbschaft\" in die preußischen Sammlungen nach Berlin, ins Berliner Schloss. \r\n\r\nHeute wird das Gemälde in der Bildergalerie von Sanssouci gezeigt. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Gerrit van Honthorst",
+        "date": "1632",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16736/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16736",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Gerrit van Honthorst"
+          },
+          {
+            "label": "gemalt",
+            "value": "1632"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16736/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7307/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7307/manifest",
+        "title": "Prinzessin Maria von Oranien-Nassau (1642-1688)",
+        "description": "Das 1648 entstandene Kinderbildnis Gerard van Honthorsts zeigt die sechsjährige Prinzessin Maria (1642-1688), jüngste Tochter des Statthalters Friedrich Heinrich von Oranien-Nassau und seiner Ehefrau Amalia von Solms. In ihrer Rechten hält sie das Miniaturbildnis ihrer ältesten Schwester Louise Henriette (1627-1667). Zwei Jahre vor dem Entstehen des Bildnisses, 1646, wurde Louise Henriette mit dem Kurfürsten Friedrich Wilhelm von Brandenburg (1620-1688) verheiratet. 1647 verließ sie Den Haag, um am kurbrandenburgischen Hof eine neue Heimat zu finden. Als Zeichen der engen Verbundenheit hält Maria das Bildnis ihrer Schwester in Händen, dicht über ihrem Herzen. Ein Orangenblütenkranz in ihrer Linken verweist auf die Herkunft aus dem Hause Oranien. \r\n\r\nDas Gemälde wird im Schloss Caputh gezeigt. \r\n\r\nA. Bauer (2012 / 2017)",
+        "creator": "Gerrit van Honthorst",
+        "date": "1648",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16737/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16737",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Gerrit van Honthorst"
+          },
+          {
+            "label": "gemalt",
+            "value": "1648"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Marie von Oranien-Nassau"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16737/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7308/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7308/manifest",
+        "title": "Der Philosoph und Schriftsteller Johann Jakob Engel (1741-1802)",
+        "description": "Johann Jakob Engel (1741-1802) war ein Philosoph und Schriftsteller der deutschen Aufklärung. Ab 1764 war er in Leipzig tätig, wo er Anton Graff kennenlernte, der sich zeitweilig dort aufhielt. 1776 kam er als Professor des Joachimsthalschen Gymnasiums nach Berlin. Er war Mitglied der Akademie der Künste und Erzieher des späteren Königs Friedrich Wilhelm III. (1765-1840). Ab 1786 leitete er als Intendant das Nationaltheater in Berlin. \r\n\r\nDas Gemälde ist derzeit nicht ausgestellt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Anton Graff",
+        "date": "1773",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16738/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16738",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Anton Graff"
+          },
+          {
+            "label": "gemalt",
+            "value": "1773"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Schweiz"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16738/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7309/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMDkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7309/manifest",
+        "title": "August Wilhelm Iffland (1759-1814) in der Rolle des Pygmalion",
+        "description": "August Wilhelm Iffland (1759-1814) war einer der berühmtesten deutschen Theaterschauspieler seiner Zeit und seit 1796 Generalintendant des Königlichen Nationaltheaters in Berlin. Er beauftragte Anton Graff mit seinem lebensgroßen ganzfigurigen Bildnis, das ihn in der Rolle des Pygmalion aus Jean-Jacques Rousseaus gleichnamigem Drama zeigte. Die im Porträt (und im Theaterstück) wiedergegebene Szene basiert auf einer antiken Historie der Metamorphosen des Ovid: Der Bildhauer Pygmalion hatte sich in Galatea, eine seiner Statuen, verliebt und erbat sich von Venus eine Frau, die ihr gleich sei. Venus zeigte Mitleid mit dem unglücklich Verliebten und erweckte die Statue zum Leben. Nach dem Tode Ifflands wurde das Bildnis 1814 auf der Ausstellung der Berliner Akademie der Künste gezeigt und von König Friedrich Wilhelm III. von Preußen erworben. \r\n\r\nA. Bauer (2017)",
+        "creator": "Anton Graff",
+        "date": "1800",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16739/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16739",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Anton Graff"
+          },
+          {
+            "label": "gemalt",
+            "value": "1800"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16739/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7310/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7310/manifest",
+        "title": "Stanislaus Leszczinski Herzog von Lothringen, König von Polen (1677-1766)",
+        "description": "",
+        "creator": "Antoine Pesne",
+        "date": "1736",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16740/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16740",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Berlin"
+          },
+          {
+            "label": "gemalt",
+            "value": "1736"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Stanislaus I. Leszczyński"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Polen"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16740/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7313/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7313/manifest",
+        "title": "Sophie Charlotte Prinzessin von Braunschweig-Lüneburg, Königin in Preussen (1668- 1705), Jugendbildnis",
+        "description": "Bildnis",
+        "creator": "Noel Jouvenet III.",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16702/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16702",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Noel Jouvenet III."
+          },
+          {
+            "label": "abgebildet",
+            "value": "Sophie Charlotte von Hannover"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Welfen (Familie)"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16702/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7315/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7315/manifest",
+        "title": "Liselotte von der Pfalz, Herzogin von Orléans im Jagdkostüm (1652-1722)",
+        "description": "Elisabeth Charlotte war das zweite Kind des Kurfürsten Karl Ludwig von der Pfalz und Charlotte Landgräfin von Hessen Kassel. Da ihre Eltern in Streit lagen, schickten sie die Tochter Elisabeth Charlotte zwischen 1659 und 1663 zu ihrer Tante Sophie Herzogin und Kurfürstin von Braunschweig-Lüneburg, Schwester von Karl Ludwig. Nichte und Tante hatte eine enge Bindung. 1671 wurde Lieselotte mit Herzog Philipp I. Orléans, dem Bruder Ludwigs XIV. von Frankreich vermählt. Berühmt wurde sie durch ihre Briefe mit anschaulichen Beschreibungen des Hoflebens in Versailles.\r\n\r\nDas Porträt Liselottes ist seit 1705 in den Räumen ihrer Cousine Sophie Charlotte Königin in Preußen im Schloss Charlottenburg dokumentiert. \r\n\r\nFranziska Windt",
+        "creator": "Louis Elle",
+        "date": "1675",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16703/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16703",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Louis Elle"
+          },
+          {
+            "label": "gemalt",
+            "value": "1675"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Liselotte von der Pfalz"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Haus Bourbon"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16703/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7316/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7316/manifest",
+        "title": "Damenbildnis, vermutlich Sophie Charlotta Possart (die Türkin jetzo Poßartin ?)",
+        "description": "Bildnis",
+        "creator": "Gedeon Romandon",
+        "date": "Vor 1697",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16704/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16704",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Gedeon Romandon"
+          },
+          {
+            "label": "gemalt",
+            "value": "Vor 1697"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16704/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7317/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7317/manifest",
+        "title": "Allianzbild der Könige Friedrich I. in Preußen, August der Starke, Friedrich IV. von Dänemark (Dreikönigsbild)",
+        "description": "Das Allianzbild (\"Dreikönigsbild\") ist eine Allegorie auf ein angestrebtes politisches Bündnis dreier Könige – Friedrichs I. in Preußen, Augusts des Starken (zu dieser Zeit als König von Polen abgesetzt) und König Friedrichs IV. von Dänemark. Diese trafen sich im Juli 1709 in Potsdam, um eine militärische Allianz gegen Karl XII. von Schweden zu planen, die jedoch nie gebildet wurde. Zwei Wochen lang veranstaltete man während des Treffens in den Schlössern in Potsdam, Charlottenburg, Oranienburg sowie in der Berliner Residenz Essen und Bälle sowie verschiedentlich Jagdausflüge. Auch fand die Taufe der während des Treffens geborenen Enkelin Friedrichs I., Prinzessin Wilhelmine (spätere Markgräfin von Bayreuth), im Berliner Schloss statt. \r\n\r\nDas Bildnis zeigt die drei Könige ganzfigurig in palastartigem Ambiente, mit Hermelinmantel, Krone und Orden – der traditionellen Darstellung des Herrscherbildnisses entsprechend. Ein Dreieck auf dem Boden markiert die Anordnung der Könige und versinnbildlicht ihre (angestrebte) Einheit, die durch das Reichen der Hände verstärkt wird. Der in Spandau geborene Samuel Theodor Gericke (1665-1730) war seit 1696 Historien- und Bildnismaler am Hofe Friedrichs III./I. in Brandenburg (1657-1713). In der Zeit um 1709 gehörte er zu den wichtigsten Figurenmalern am preußischen Hofe. \r\n\r\nDas Gemälde wird heute im Schloss Charlottenburg gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Samuel Theodor Gericke",
+        "date": "1709",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16705/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16705",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Samuel Theodor Gericke"
+          },
+          {
+            "label": "gemalt",
+            "value": "1709"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Dänemark"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Sachsen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16705/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7318/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7318/manifest",
+        "title": "Inneres des Palmenhauses auf der Pfaueninsel",
+        "description": "Die zwischen 1832 und 1834 entstandenen beiden Ansichten des Palmenhauses auf der Berliner Pfaueninsel fertigte Blechen im Auftrag König Friedrich Wilhelms III. von Preußen an. Im Juni 1834 waren die Bilder vollendet, im September wurden sie auf der Ausstellung der Berliner Akademie gezeigt. Die Gemälde zeigen die 1830 von Friedrich Wilhelm III. erworbene Palmensammlung des Monsieur Fulchiron in Passy bei Paris. Für diese Sammlung ließ der König nach Plänen Schinkels das Palmenhaus auf der Pfaueninsel errichten, das 1831 fertiggestellt war und 1880 durch Feuer wieder zerstört wurde. Eine Studie des Gemäldes befindet sich heute in der Hamburger Kunsthalle. \r\n\r\nDas Gemälde wird derzeit im Neuen Pavillon des Schlosses Charlottenburg gezeigt. \r\n\r\nA. Bauer (2017)",
+        "creator": "Carl Blechen",
+        "date": "1832-1834",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16706/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16706",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Carl Blechen"
+          },
+          {
+            "label": "gemalt",
+            "value": "1832-1834"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16706/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7319/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMTkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7319/manifest",
+        "title": "Inneres des Palmenhauses auf der Pfaueninsel",
+        "description": "Die zwischen 1832 und 1834 entstandenen beiden Ansichten des Palmenhauses auf der Berliner Pfaueninsel fertigte Blechen im Auftrag König Friedrich Wilhelms III. von Preußen an. Im Juni 1834 waren die Bilder vollendet, im September wurden sie auf der Ausstellung der Berliner Akademie gezeigt. Die Gemälde zeigen die 1830 von Friedrich Wilhelm III. erworbene Palmensammlung des Monsieur Fulchiron in Passy bei Paris. Für diese Sammlung ließ der König nach Plänen Schinkels das Palmenhaus auf der Pfaueninsel errichten, das 1831 fertiggestellt war und 1880 durch Feuer wieder zerstört wurde. Eine Studie des Gemäldes befindet sich heute in der Hamburger Kunsthalle. \r\n\r\nDas Gemälde wird derzeit im Neuen Pavillon des Schlosses Charlottenburg gezeigt. \r\n\r\nA. Bauer (Oktober 2017)",
+        "creator": "Carl Blechen",
+        "date": "1832-1834",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16707/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16707",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Carl Blechen"
+          },
+          {
+            "label": "gemalt",
+            "value": "1832-1834"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16707/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7320/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7320/manifest",
+        "title": "Rückkehr Friedrich des Großen aus dem Manöver",
+        "description": "Historiengemälde",
+        "creator": "Edward Francis Cunningham",
+        "date": "1784-1787",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16708/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16708",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Edward Francis Cunningham"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Berlin"
+          },
+          {
+            "label": "gemalt",
+            "value": "1784-1787"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Friedrich II. von Preußen (König)"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Marie Joseph Paul Yves Roch Gilbert Du Motier de Lafayette"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Charles Cornwallis"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Friedrich August von York und Albany"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16708/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7321/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7321/manifest",
+        "title": "Parade Unter den Linden",
+        "description": "1839 entstand die monumentale \"Parade Unter den Linden\" im Auftrag König Friedrich Wilhelms III. von Preußen (1770-1840), die noch im selben Jahr auf der Ausstellung der Berliner Akademie gezeigt wurde und zu den wichtigsten Gemälden des Künstlers zählt. Seitdem befand sich das Gemälde in den königlichen Sammlungen, im Berliner Schloss. Gezeigt wird die vom König abgenommene Parade des 1. Garderegiments zu Fuß. Obwohl die sich nähernde Militärparade das eigentliche Thema der Darstellung ist, scheint die im rechten Vordergrund des Bildes zu erkennende Zuschauermenge vor der Neuen Wache in Berlin eine fast größere Bedeutung zu erhalten. Von den insgesamt 240 Personen im Bild sind zahlreiche Berliner (als Porträts gestaltet), wiederzuerkennen, darunter hochrangige Personen der Zeit, aus Militär, Politik, Wissenschaft und Kunst. Krüger lud die Dargestellten hierfür offiziell zu Porträtsitzungen in sein Atelier und hielt ihre Physiognomie in Skizzen fest. \r\n\r\nBereits 1829/30 hatte Krüger eine \"Parade auf dem Opernplatz in Berlin\" (heute in der Alten Nationalgalerie SMB PK) im Auftrag des russischen Großfürsten Nikolaus angefertigt. Dieser - ein Schwiegersohn des preußischen Königs Friedrich Wilhelm III. - hatte dem König 1824 eine Parade seines Brandenburgischen Regiments vorgeführt, die er im Bild festhalten lassen wollte. Zehn Jahre später war es Friedrich Wilhelm III. selbst, der 1839 mit der \"Parade Unter den Linden\" eine vergleichbare Darstellung bei Krüger bestellte. \r\n\r\nDas Gemälde wird im Schloss Charlottenburg gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Franz Krüger (Maler)",
+        "date": "1839",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16548/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16548",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Franz Krüger (Maler)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1839"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16548/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7322/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7322/manifest",
+        "title": "Friedrich II. König von Preußen, genannt Friedrich der Große (1712-1786)",
+        "description": "Wie Friedrich II. (Friedrich der Große, 1712-1786) nach seinen beiden ersten Kriegen, dem Ersten und Zweiten Schlesischen Krieg (1740-1742 und 1744-1745), gesehen werden wollte, offenbart Antoine Pesnes Gemälde von 1746. Als erfolgreicher junger Herrscher, Feldherr und Schlachtenlenker.Der König verschenkte das Gemälde zum Jahrestag der siegreichen Schlacht bei Hohenfriedberg (4. Juni 1745) als Dank für seine Gastfreundschaft an den Grafen von Hochberg, denn damals hatte Friedrich der Große abends auf der Schlossbrücke von Rohnstock den Vorbeimarsch der eroberten sächsischen und österreichischen Fahnen abgenommen und bei dem Hausherrn gespeist. \r\n\r\nJürgen Luh",
+        "creator": "Antoine Pesne",
+        "date": "1746",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16709/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16709",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt",
+            "value": "1746"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Friedrich II. von Preußen (König)"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16709/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7323/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7323/manifest",
+        "title": "Friedrich II. König von Preußen, genannt der Große",
+        "description": "",
+        "creator": "Edward Francis Cunningham",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16710/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16710",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Edward Francis Cunningham"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Friedrich II. von Preußen (König)"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16710/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7324/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7324/manifest",
+        "title": "Die Prinzessinnen Luise (1776-1810) und Friederike (1778-1841) von Preußen bekränzen die Büste Friedrich Wilhelms II. (Allegorie auf den Frieden von Basel)",
+        "description": "Als Allegorie auf den Frieden von Basel gemaltes Doppelporträt der Prinzessinnen Luise und Friederike von Mecklenburg-Strelitz, die zwei Jahre vor Anfertigung des Bildnisses die preußischen Prinzen Friedrich Wilhelm (der spätere König Friedrich Wilhelm III. von Preußen) und Ludwig geheiratet hatten. Sie bekränzen eine Büste ihres Schwiegervaters, König Friedrich Wilhelm II. von Preußen (1744-1797) mit einem Olivenzweig und schmücken sie mit einer Girlande aus Rosen. Friedrich Wilhelm II. wird in dem Bildnis als Friedensstifter gehuldigt. Er hatte im April 1795 Preußens Teilnahme am Ersten Koalitionskrieg gegen das revolutionäre Frankreich beendet. Das Gemälde wurde 1795 auf der Ausstellung der Berliner Akademie der Künste präsentiert und dem König als Geburtstagsgeschenk überreicht. \r\n\r\nDas Gemälde wird im Schloss Charlottenburg gezeigt. \r\n\r\nA. Bauer (2017)",
+        "creator": "Friedrich Georg Weitsch",
+        "date": "1795",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16711/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16711",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Friedrich Georg Weitsch"
+          },
+          {
+            "label": "gemalt",
+            "value": "1795"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16711/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7325/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7325/manifest",
+        "title": "Unbefleckte Empfängnis der Jungfrau Maria",
+        "description": "Das Gemälde der \"Maria Immaculata\" stammt aus dem Besitz des römischen Kardinals Alderano Cybo, der sich intensiv um eine Etablierung des Marienkults bemühte. Für den Kardinal war das Gemälde wohl von besonderer Bedeutung. Eine Ecke davon ist im Hintergrund seines vor 1688 entstandenen Porträts von Carlo Maratta (1625-1713) zu sehen, das sich heute im Musée des Beaux-Arts in Marseille befindet. Wahrscheinlich handelt es sich bei dem Gemälde in der Bildergalerie von Sanssouci um das Modell für den oberen Teil des großen Altarbildes, das Cybo 1685 ebenfalls bei Maratta für seine Familienkapelle in Santa Maria del Popolo in Rom in Auftrag gab. Dieses zeigt vier Kirchenväter, die über das Dogma der unbefleckten Empfängnis debattieren. Nach dem Tod Cybos erwarb Kardinal Silvio Valenti Gonzaga 1749 das Marienbild. Aus dessen umfangreicher Sammlung wiederum kaufte es der preußische König Friedrich II. im Jahr 1763. Die \"Maria Immaculata\" ist seit 1766 in der Bildergalerie nachweisbar. Hier hing sie zunächst neben einer historisch-mythologischen Darstellung von Maratta, der \"Auffindung des Romulus und Remus\" (SPSG, GK I 5282). Diese Erwerbungen zeigen, wie hoch der römische Künstler, den man als Nachfolger Raffaels ansah, geschätzt wurde. Seine Kompositionen, seine Zeichnung, die Farbgebung sowie die \"klassische\" Figurenauffassung wurden von Kritikern der Zeit außerordentlich gelobt. \r\n\r\nFranziska Windt",
+        "creator": "Carlo Maratta",
+        "date": "1685-1688",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16720/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16720",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Carlo Maratta"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Rom"
+          },
+          {
+            "label": "gemalt",
+            "value": "1685-1688"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Rom"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Alderano Cybo"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Silvio Valenti Gonzaga"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16720/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7326/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7326/manifest",
+        "title": "Die Flucht nach Ägypten",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7327/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7327/manifest",
+        "title": "Esther lässt sich schmücken",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7328/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7328/manifest",
+        "title": "Die Auffindung von Romulus und Remus",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7329/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMjkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7329/manifest",
+        "title": "Boreas entführt Oreithyia",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7330/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7330/manifest",
+        "title": "Récréation italienne, Belustigung im Freien",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7331/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7331/manifest",
+        "title": "Déjeuner et repos de chasse, Mahlzeit und Pause während der Jagd",
+        "description": "König Friedrich II. von Preußen (1712-1786) besaß zwei Gemälde mit Darstellungen der wichtigsten Themen Lancrets, der Mahlzeit im Freien während oder nach der Jagd. Das hier besprochene Werk hängt noch heute in der Kleinen Galerie im Schloss Sanssouci, das andere befindet sich heute in Washington. Beide wurden um 1736/38 gemalt, in Lancrets später Schaffenszeit. Lancrets Gestaltung der Jagdmahlzeit zielt darauf ab, das Zeitgenössische und Luxuriöse der Jagd zu unterstreichen. Durch die ausführliche Wiedergabe von Details haben alle Gemälde eine große Unmittelbarkeit und betonen das Erzählerische. \r\n\r\nFranziska Windt",
+        "creator": "Nicolas Lancret",
+        "date": "1738",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16715/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16715",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Nicolas Lancret"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Paris"
+          },
+          {
+            "label": "gemalt",
+            "value": "1738"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16715/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7332/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7332/manifest",
+        "title": "König Friedrich II. von Preußen (1712-1786)",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7333/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7333/manifest",
+        "title": "Die Überraschung",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7334/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7334/manifest",
+        "title": "Fête galante mit Musizierenden an einer Dionysosbüste",
+        "description": "Fete galante",
+        "creator": "Antoine Watteau",
+        "date": "1715-1717",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16718/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16718",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Watteau"
+          },
+          {
+            "label": "gemalt",
+            "value": "1715-1717"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16718/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7335/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7335/manifest",
+        "title": "Rinaldo und Armida",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7336/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7336/manifest",
+        "title": "Kurfürst Friedrich Wilhelm von Brandenburg (1620-1688) und seine Familie",
+        "description": "Das monumentale Familienbildnis zeigt den brandenburgischen Kurfürsten Friedrich Wilhelm von Brandenburg (1620-1688) mit seiner ersten Ehefrau Louise Henriette von Oranien-Nassau (1627-1667) und den Söhnen Karl Emil (1655-1674), Friedrich (1657-1713) und dem kurz zuvor geborenen Ludwig (1666-1687) in palastähnlicher Umgebung. Über der Familie erkennt man in einer Wolkenebene die bereits verstorbenen Kinder Wilhelm Heinrich (1648-1649) und die Zwillinge Heinrich (1664) und Amalia (1664-1665). Das Bildnis ist sowohl ein repräsentatives Staats- als auch ein Familienbildnis. Nachdem bereits mehrere Kinder des Kurfürstenpaares jung verstorben waren, spiegelt das Porträt wenige Wochen nach der Geburt des jüngsten Sohnes den Stolz wieder, die Dynastie und deren Erbfolge nun mit drei Söhnen auf sichere Füße gestellt zu haben. Als designierter Nachfolger seines Vaters hält Kurprinz Karl Emil den Kurhut in Händen und erklimmt dabei eine Treppenstufe zu einem erhöhten Podest, auf dem sich die Eltern befinden. Der Kurfürst ist im Zentrum des Bildnisses in Kurmantel und kurfürstlichem Gewand aus Goldbrokat dargestellt. Neben ihm sitzt Kurfürstin Louise Henriette mit dem jüngsten Sohn Ludwig auf dem Schoß. Beide werden von zwei monumentalen Säulen hinterfangen, die Stärke und Macht des Kurfürstenpaares symbolisieren. Eine enorme, wild bewegte Draperie zwischen den Säulen dient zur Nobilitierung der Dargestellten und rückt speziell den Kurfürsten in den Mittelpunkt des Geschehens.\r\n\r\nVon den sechs Kindern des Kurfürstenpaares sollte nur der auf der rechten Seite des Bildes wiedergegebene Friedrich (später Kurfürst Friedrich III. von Brandenburg/König Friedrich I. in Preußen), seine Eltern überleben. Kurfürstin Louise Henriette starb nur wenige Monate nach Anfertigung des Familienbildnisses, Kurprinz Karl Emil im Alter von 19 Jahren, Markgraf Ludwig von Brandenburg im Alter von 20 Jahren. \r\nEbenso wie das Doppelbildnis des Kurfürstenpaares von Nason (GK I 1046) entstand das Familienbildnis 1666 höchstwahrscheinlich im Zusammenhang mit einem längeren Aufenthalt der kurfürstlichen Familie in Kleve. Der Haager Maler Jan Mijtens war 1666 nach Kleve beordert worden, um physiognomische Studien anzufertigen, die als Vorlage für Bildnisse dienten.\r\nDas Gemälde wird heute im Schloss Oranienburg gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Jan Mytens",
+        "date": "1666",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16563/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16563",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jan Mytens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1666"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Brandenburg"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16563/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7337/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7337/manifest",
+        "title": "Vestalinnen",
+        "description": "Zusammen mit seinem Pendant und Gegenbild, dem \"Überfall\" von Raoux, erwarb König Friedrich II. von Preußen (1712-1786) dieses Gemälde 1747 in Paris für sein noch im Bau befindliches Lustschloss Sanssouci. Die Zeitgenossen des Künstlers beschäftigte die Rolle der Frau in der Gesellschaft und es wurden Vorbilder in der Geschichte gesucht, um diese zu diskutieren. Zwei beliebte Gegenbilder waren die hier gewählten, das Bild als tugendhafte, das heimische Herdfeuer hütende Vestalin, oder das als naturverbundene, freizügige \"Gärtnerin\". Raoux eingängige Darstellungen dieser Typen fanden großen Anklang und Verbreitung in der französischen Adelsgesellschaft. Ein Besucher von Sanssouci, Ernst Samuel Jacob Borchward, kommentierte es 1749 mit den Worten \"O! Vortrefflich!\". \r\n\r\nFranziska Windt",
+        "creator": "Jean Raoux",
+        "date": "1730",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16721/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16721",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jean Raoux"
+          },
+          {
+            "label": "gemalt",
+            "value": "1730"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16721/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7338/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7338/manifest",
+        "title": "Die Liebeserklärung",
+        "description": "Die von Jean-François de Troy (1679-1752) geschilderte Szene gibt eine sehr anschauliche Vorstellung von der aristokratischen Gesellschaft seiner Zeit, ohne dass er mit ihr Porträts bestimmter Personen zeigt. Seit 1749 läßt sich das Gemälde im Audienz- und Speisezimmer König Friedrichs II. von Preußen nachweisen. \r\n\r\nFranziska Windt",
+        "creator": "Jean François de Troy",
+        "date": "1731",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16722/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16722",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jean François de Troy"
+          },
+          {
+            "label": "gemalt",
+            "value": "1731"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16722/full/3000,/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7339/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczMzkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7339/manifest",
+        "title": "Raub der Europa",
+        "description": "Cazes stellt den Moment dar, in dem Europa, unterstützt durch eine ihrer Freundinnen, sich gerade auf den Rücken des Stieres gesetzt hat. Eine weitere Freundin umkränzt den Hals des Stiers der noch friedlich am Strand von Sidon lagert. Über ihnen bringen Putten weitere Blumen heran. Vor seinem Maul sitzt der kleine Liebesgott Amor und zielt mit der Hand mit einem Pfeil auf die Brust des in das Tier verwandelten Gottes Zeus. Auf einer Wolke belauscht rechts oben Merkur die Szene. \r\n\r\nFranziska Windt",
+        "creator": "Pierre-Jacques Cazes",
+        "date": "1746",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16723/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16723",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Pierre-Jacques Cazes"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Paris"
+          },
+          {
+            "label": "gemalt",
+            "value": "1746"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Jean-Baptiste de Boyer D’Argens"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16723/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7340/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7340/manifest",
+        "title": "Gustav Adolf Graf Gotter (1692-1762) mit Begleiterin in Pilgertracht",
+        "description": "Aus Gotha stammend, studierte der bürgerliche Gustav Adolf Gotter ab 1709 in Jena und Halle und begleitete seinen Vater auf einer Kavaliersreise nach Westeuropa. Schon bald betätigte er sich als Gesandter in Wien. Dort trat er auch in die Dienste des preußischen Königs Friedrich Wilhelm I. (1688-1740). Von Friedrich II. (1712-1786) wurde er 1740 zum Oberhofmarschall berufen, vertrat die Interessen des Königs 1741 am kaiserlichen Hof in Wien. Zurückgekehrt wurde er zum Generaldirektor der Berliner Oper und zum Kurator der Akademie der Wissenschaften und schließlich zum Generalpostmeister ernannt. Sein Porträt von Pesne als Pilger auf der Liebesinsel Cythera bringt einen hervorstechenden Charakterzug von Gotter zum Ausdruck. Er liebte das extravagante, freie Leben. Vielleicht steht das Porträt in Zusammenhang mit seiner Aufnahme in den Gothaer Ordens der \"Heremites de bonne humeur\" (Orden der heiteren Einsiedler), dessen Mitglied er ab 1743 war. Die Devise lautete „Vive la joie!\". Das Bildnis gehört zur Originalausstattung des Ersten Gästezimmers König Friedrichs II. in Sanssouci. \r\n\r\nFranziska Windt",
+        "creator": "Antoine Pesne",
+        "date": "Nach 1743",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16724/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16724",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt",
+            "value": "Nach 1743"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Gustav Adolf von Gotter"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16724/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7341/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7341/manifest",
+        "title": "Herman Moritz Graf von Sachsen (1696-1750), genannt Marschall von Frankreich",
+        "description": "Moritz von Sachsen war ein illegitimer Sohn Friedrich Augusts I. von Sachsen, genanntAugust der Starke, und Maria Aurora von Könickmark. Schon sehr früh studierte er Musik und Philosophie in Halle, schlug aber dann eine militärische Laufbahn ein und kämpfte 1709 in Flandern unter Prinz Eugen und Malborough. 1720 trat er in den französischen Militärdienst ein. Nach einer sehr erfolgreichen militärischen Laufbahn, zog er sich 1748 zurück. Er ließ sich das Schloss Chambord, dass ihm Ludwig XV. auf Lebenszeit überlassen hatte, nach seinem Geschmack ausbauen. Dort versammelte er Philosophen, Gelehrte und Künstler und Frauen um sich. Der \"maréchal de Saxe\" war einer der wenigen unbesiegten Feldherren Frankreichs. König Friedrich II. von Preußen, der Große, bewunderte den Feldherrn und Menschen und würdigte seine Leistungen in der Schrift \"L` art de la guerre\". Mehrmals traf er im Frühjahr 1742 in Böhmen mit ihm zusammen und im Juli 1749 war Moritz von Sachsen sein Gast im Schloss Sanssouci. Das Porträt zeigt ihn in Harnisch, der blauen Schärpe des Weißen Adlerordens darüber, einem auffälligen roten, mit Leopardenfell gefütterten Mantel auf dem das Ordenszeichen des Weißen Adlerordens angebracht ist und Kommandostab. Friedrich II. ließ es in das erste Gästezimmer von Sanssouci hängen, wo es seit 1773 dokumentiert ist. \r\n\r\nFranziska Windt",
+        "creator": "Charles-Antoine Coypel",
+        "date": "1735-1739",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16568/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16568",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Charles-Antoine Coypel"
+          },
+          {
+            "label": "gemalt",
+            "value": "1735-1739"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16568/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7342/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7342/manifest",
+        "title": "Cicero entdeckt das Grabmal des Archimedes",
+        "description": "Das Gemälde stellt die Entdeckung des Grabmals des griechischen Mathematikers Archimedes (um 287 - um 212 v. Chr.) durch den Römer Cicero dar. Der Freund des preußischen Königs Friedrich II., Graf Francesco Algarotti, hat mehrere Versionen des Bildes bei dem ihm persönlich bekannten Maler Francesco Zuccarelli bestellt. Dabei hatte er sich an den Aufzeichnungen des römischen Redners und Philosophen Marcus Tullius Cicero (106-43 v. Chr.) orientiert. Dieser berichtet in seinen 45 v. Chr. verfassten „Gesprächen in Tusculum“, er habe das Grabmal als Quaestor in Syrakus 75 v. Chr. in einem Dornengestrüpp gefunden und freilegen lassen. Er habe es erkannt, weil es mit einer Kugel und einen Zylinder geschmückt gewesen sei. Plutarch hatte berichtet, Archimedes habe sich ein Grab mit der Darstellung von Kugel und Zylinder gewünscht. Algarotti hatte Zuccarelli angehalten, die Szene möglichst historisch korrekt darzustellen. 1748 erwarb Friedrich der Große das Gemälde und hängte es in eines seiner Gästezimmer in Sanssouci. \r\n\r\nFranziska Windt",
+        "creator": "Francesco Zuccarelli",
+        "date": "1747",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16569/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16569",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Francesco Zuccarelli"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Venedig"
+          },
+          {
+            "label": "gemalt",
+            "value": "1747"
+          },
+          {
+            "label": "beauftragt von",
+            "value": "Francesco Algarotti"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16569/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7343/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7343/manifest",
+        "title": "Rom: Das Forum Romanum",
+        "description": "Der Galeriedirektor Friedrichs des Großen, Matthias Oesterreich, bezeichnete den von Gian Paolo Panini (1691-1765) dargestellten Ort 1773 als \"Campo Vaccino\". Der damals gebräuchliche Name zeigt an, dass der Platz mit den Ruinen des antiken Forum Romanum als Kuhweide und seit dem 16. Jahrhundert als Rindermarkt genutzt wurde. An dem Gemälde Paninis selbst ist erkennbar, dass sich die Einstellung zu diesem Ort im 18. Jahrhundert zu wandeln begann. Jetzt wird er auch zu einer Attraktion für wohlhabende Reisende aus ganz Europa. Auf Paninis \"Campo Vaccino\" bewundern einige davon die antiken Reste. Panini zeigt aus der Richtung des Campidoglio, des kapitolinischen Hügels, die Reste der baumbestandenen Triumphstraße zwischen dem Triumphbogen des Septimius Severus, links vorne, und dem Titusbogen, die anläßlich des Besuchs von Karl V. nach der Schlacht von Tunis 1535 durch Papst Paul II. angelegt wurde. \r\n\r\nFranziska Windt",
+        "creator": "Giovanni Paolo Pannini",
+        "date": "1749",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16570/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16570",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Giovanni Paolo Pannini"
+          },
+          {
+            "label": "gemalt",
+            "value": "1749"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Rom"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          },
+          {
+            "label": "wurde abgebildet in",
+            "value": "Forum Romanum"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16570/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7344/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7344/manifest",
+        "title": "König Friedrich Wilhelm IV. von Preußen (1795-1861) in seinem Kabinett",
+        "description": "Franz Krüger gehörte zu den berühmtesten Berliner Porträtisten der Biedermeierzeit. Sein Bildnis zeigt König Friedrich Wilhelm IV. von Preußen (1795-1861) in seinem Arbeitszimmer in der Erasmuskapelle des Berliner Schlosses, die er mit Teilen seiner Sammlung ausschmückte. Seine Vorliebe für die Architektur des Mittelalters wird hierdurch ebenso ersichtlich wie die Verehrung, die er für seine Urgroßonkel Friedrich II. von Preußen (1712-1786) empfand. Dieser hatte bereits Mitte des 18. Jahrhunderts sein Appartement in Teilen der Erasmuskapelle eingerichtet. Das Gemälde ist derzeit nicht ausgestellt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Franz Krüger (Maler)",
+        "date": "1846",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16571/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16571",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Franz Krüger (Maler)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1846"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16571/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7345/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7345/manifest",
+        "title": "Der Markusplatz in Venedig",
+        "description": "Luca Carlevaris (1763-1730) kombiniert eine die Geometrie des Platzes und der Gebäude betonende Darstellung mit einer lebhaften Schilderung der verschiedenartigen, zum Teil maskierten Figuren, die den Platz bevölkern. Als großer, von Fenstern durchbrochener horizontaler Riegel nehmen die Procurazie Nuove die Mitte der rechten Bildhälfte ein. Dagegen steht die Vertikale des von schlanken Vorlagen gegliederten Markusturms. Die links im Schatten liegende Fassade der Markuskirche führt den Blick in die Ferne über die Piazetta vor dem Dogenpalast an die von den beiden Säulen markierte Mole. König Friedrich II. von Preußen (1712-1786) ließ diese Venedig-Ansicht zusammen mit weiteren und mit Veduten von Rom, Neapel und der Gegend um Potsdam in das Dritte Gästezimmer von Sanssouci hängen. In Potsdam glaubte man zunächst der von Carlevaris beeinflusste Canaletto sei der Maler des Bildes. \r\n\r\nFranziska Windt",
+        "creator": "Luca Carlevaris",
+        "date": "Vor 1726",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16572/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16572",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Luca Carlevaris"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Venedig"
+          },
+          {
+            "label": "gemalt",
+            "value": "Vor 1726"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16572/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7346/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7346/manifest",
+        "title": "Blick über den Molo auf die Riva degli Schiavoni in Venedig",
+        "description": "Die Mole mit der Theodorus- und der Markussäule und die sich daran anschließende Riva degli Schiavoni bilden die Kulisse für ein buntes Hafen- und Geschäftstreiben. Fast ausschließlich Männer gehen hier ihren Geschäften nach, verkaufen Vögel oder Obst, spielen oder debattieren. Luca Carlevaris (1663-1730) kombiniert hier großartige architektonische Wahrzeichen der Stadt in interessanter Perspektive mit einem malerischen Blick auf das alltägliche Leben mit seinen zahlreichen ein- oder auslaufenden Schiffen und den unterschiedlichen bunten Menschengrüppchen. \r\n\r\nFranziska Windt",
+        "creator": "Luca Carlevaris",
+        "date": "1710",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16573/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16573",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Luca Carlevaris"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Venedig"
+          },
+          {
+            "label": "gemalt",
+            "value": "1710"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16573/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7347/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7347/manifest",
+        "title": "Anna Amalie Prinzessin von Preußen (1723-1787) als Amazone",
+        "description": "Amalie war die jüngste der sechs Töchter König Friedrich Wilhelms I. von Preußen und seiner Gemahlin Sophie Dorothea Prinzessin von Hannover. Amalie heiratete nie und ihr Bruder, König Friedrich II., sorgte dafür, dass sie 1755 zur Äbtissin von Quedlinburg gewählt wurde. Die preußische Prinzessin lebte jedoch weiterhin am Hof in Berlin. Ihr Porträt als Amazone von Antoine Pesne ist seit 1779 zusammen mit dem ihrer Schwester Luise Ulrike, im Konfidenztafelzimmer Friedrichs II. im Berliner Schloss nachweisbar. \r\n\r\nFranziska Windt",
+        "creator": "Antoine Pesne",
+        "date": "1744",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16574/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16574",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Berlin"
+          },
+          {
+            "label": "gemalt",
+            "value": "1744"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Anna Amalie von Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16574/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7348/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7348/manifest",
+        "title": "Lustgarten und Stadtschloss in Potsdam",
+        "description": "Ansicht des Potsdamer Stadtschlosses und des Bosketts im Lustgarten (rechts im Bild). Der hier gezeigte Schlossbau ist durch die Veränderungen des Architekten Georg Wenzeslaus von Knobelsdorff von 1744 bis Anfang der 1750er Jahre geprägt. Die 1773 entstandene Darstellung Johann Friedrich Meyers war spätestens seit 1775 Teil der Erstausstattung der Neuen Kammern im Park von Sanssouci, wo sie sich auch heute noch befindet. Hier präsentierte König Friedrich II. von Preußen zahlreiche zeitgenössische Ansichten von Potsdam, die von lokalen Künstlern wie Meyer oder Karl Christian Wihelm Baron zur Ausstattung des Schlosses geschaffen worden waren. \r\n\r\nA. Bauer (2016/2017)",
+        "creator": "Johann Friedrich Meyer (Maler)",
+        "date": "1773",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16575/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16575",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Johann Friedrich Meyer (Maler)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1773"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16575/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7349/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNDkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7349/manifest",
+        "title": "Alter Markt in Potsdam mit Stadtschloss",
+        "description": "Gezeigt wird das städtische Zentrum Potsdams, der Alte Markt, mit dem ab 1753 errichteten Obelisken und der Nordseite des Stadtschlosses. Das Bild war Teil der Erstausstattung der Neuen Kammern ab spätestens 1775. Dort wird es noch heute gezeigt. \r\n\r\nA. Bauer (2016/2017)",
+        "creator": "Johann Friedrich Meyer (Maler)",
+        "date": "1772",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16576/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16576",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Johann Friedrich Meyer (Maler)"
+          },
+          {
+            "label": "gemalt",
+            "value": "1772"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Potsdam"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16576/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7350/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7350/manifest",
+        "title": "Blumenstillleben",
+        "description": "1748 ließ König Friedrich II. von Preußen das Blumenstilleben Jacob van Huysums (1687-1740) gemeinsam mit seinem Pendant für insgesamt 2.200 Reichstaler als Werke Jan van Huysums erwerben und vermutlich bald im neu errichteten Schloss Sanssouci präsentieren, wo es sich noch heute befindet. Bis in die 1980er Jahre galten beide Gemälde als Werke von Jacobs Bruder, Jan van Huysum, der für seine Darstellungen üppiger Blumen- und Früchtestillleben berühmt war und dessen Bilder im 18. Jahrhundert sehr begehrt waren. Im Zentrum der Darstellung steht ein üppiger Blumenstrauß mit Blumen und Gräsern der unterschiedlichesten Jahreszeiten der in einer Vase auf einer Steinplatte arrangiert ist. Aber auch Tiere sind in die Darstellung integriert: Schmetterlinge und Fliegen umfliegen den Blumenstrauß, auf dessen Blättern sich eine Biene und eine Raupe niedergelassen haben, während sich eine Schnecke und eine kleine Echse der Vase nähern und sich eine Maus ein Vogelei aus einem Vogelnest schmecken lässt. Bereits 1768 lobt der Marquis d`Argens, Kammerherr und Kunstberater Friedrichs II., die Naturnähe der beiden Gemälde van Huysums und die Präzision, mit der die einzelnen Details, wie unter anderem Wassertropfen auf den Blättern, wiedergegeben sind. \r\n\r\nA. Bauer (14.11.2016)",
+        "creator": "Jacob van Huysum",
+        "date": "1720",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16577/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16577",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jacob van Huysum"
+          },
+          {
+            "label": "gemalt",
+            "value": "1720"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16577/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7351/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7351/manifest",
+        "title": "Joachim Ernst von Grumbkow (1637-1690)",
+        "description": "",
+        "creator": "Gedeon Romandon",
+        "date": "1685-1690",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16725/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16725",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Gedeon Romandon"
+          },
+          {
+            "label": "gemalt",
+            "value": "1685-1690"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16725/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7352/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7352/manifest",
+        "title": "Dido und Aeneas in der Höhle",
+        "description": "Das Gemälde wurde 1646 im Auftrag des niederländischen Statthalters Frederik Hendrik van Oranje-Nassau (1584-1647) als Kaminstück für den großen Saal des Haager \"Oude Hof\" (heutiger Paleis Noordeinde) für 1.000 Gulden angefertigt. Der flämische Maler Thomas Willeboirts Bosschaert (1614-1654) war am Haager Hof sehr beliebt und erhielt in den 1640er Jahren viele Aufträge für großformatige Historiendarstellungen. Als Teil der Oranischen Erbschaft gelangte das Gemälde 1747 in die preußischen Sammlungen nach Berlin und wurde unter Friedrich dem Großen in die Hängung der Bildergalerie des Berliner Schlosses integriert. In der Zwischenzeit war das Wissen um das Thema der Darstellung verloren gegangen. Man deutete die Darstellung als \"Prinz von Oranien nebst Gemahlin\" bzw. als \"Zwei Verliebte\". Seit den Publikationen des Galerieinspektor Gottlieb Puhlmanns ab 1790 galt es als \"Hochzeit des Großen Kurfürsten mit der oranischen Prinzessin Louise Henriette\". Obwohl eine gewisse Porträtähnlichkeit vorhanden ist, ist diese Interpretation jedoch eher unwahrscheinlich. Erst Mitte des 19. Jahrhunderts wurde die zugrunde liegende Thematik \"Dido und Aeneas in der Höhle\" wieder erkannt. Dido, Königin Karthagos, nimmt Aeneas auf, der auf der Flucht aus Troja in Afrika gelandet war. Während beide während der Jagd von einem Unwetter überrascht werden und in einer Höhle Schutz suchen, gestehen sie einander ihre Liebe. Als Aeneas Karthago wieder verlassen muss, stürzt sich Dido in sein Schwert und begeht Selbstmord, nicht ohne zuvor ewige Feindschaft zwischen Karthago und den Nachfahren des Aeneas beschworen zu haben. \r\n\r\nDas Gemälde befindet sich in der Bildergalerie von Sanssouci. \r\n\r\nA. Bauer (November 2016 / 2017)",
+        "creator": "Thomas Willeboirts",
+        "date": "1646",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16579/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16579",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Thomas Willeboirts"
+          },
+          {
+            "label": "gemalt",
+            "value": "1646"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16579/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7353/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7353/manifest",
+        "title": "Krönung der Diana",
+        "description": "Im Zentrum der Darstellung hat sich die Jagdgöttin Diana nach dem Ende einer erfolgreichen Jagd auf einem Felsen niedergelassen, während sie von einem geflügelten weiblichen Genius als Siegerin bekränzt wird. Zu ihren Füßen liegt die erlegte Jagdbeute, während ihre Nymphen mit einigen Satyrn anbändeln und Früchte sammeln. Locker und scheinbar mühelos hält Diana die gezähmte Natur in Form eines Leoparden und eines Löwen an der Leine. Das Gemälde entstand in gemeinschaftlicher Arbeit der Maler Rubens (1577-1640, und seiner Werktstatt) und des auf Tierdarstellungen spezialisierten Frans Snyders (1579-1657). Das Bild stammt aus der Sammlung des Statthalters der Republik der Vereinten Niederlande, Frederik Hendrik van Oranje-Nassau (1584-1647) und seiner Erben, wo es im Speisesaal des Schlosses Honselaarsdijk als Kaminstück einen besonders prominenten Platz erhalten hatte. Über die sogenannte \"Oranische Erbschaft\" gelangte es in die preußischen Sammlungen und wurde 1742 ins Berliner Schloss überführt, wo es unter Friedrich dem Großen (1712-1786) in die dortige Bildergalerie integriert wurde. \r\n\r\nHeute wird das Gemälde in der Bildergalerie von Sanssouci gezeigt. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Peter Paul Rubens",
+        "date": "Vor 1620",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16580/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16580",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Peter Paul Rubens"
+          },
+          {
+            "label": "gemalt",
+            "value": "Vor 1620"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Diana (Mythologie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16580/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7354/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7354/manifest",
+        "title": "Caritas",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7355/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7355/manifest",
+        "title": "Dorothea Luise von Wittenhorst-Sonsfeld (1681-1746)",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7356/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7356/manifest",
+        "title": "Rinaldo und Armida",
+        "description": "Das Thema der Darstellung basiert auf Torquato Tassos Gedicht \"La Gerusalemme Liberata\" von 1581, das die Belagerung Jerusalems während des ersten Kreuzzuges schildert. Die im Bild dargestellte Szene spielt auf einer Insel, wo der Kreuzritter Rinaldo, dem Gesang einer Najade lauschend, eingeschlafen ist. Um die Eroberung Jerusalems durch die Kreuzritter zu verhindern, hatte die Zauberin Armida ihn in diesen Hinterhalt gelockt, um ihn zu ermorden. Beim Anblick des schlafenden Rinaldo verliebt sie sich jedoch in ihn, fesselt ihn mit einem Blumenkranz und entführt ihn. Eine Wassernymphe (Najade) hält im Bild ein Notenblatt in der Hand, das auf ihren Gesang verweist; zahlreiche Putten versinnbildlichen die amouröse Thematik. Die in starker Untersicht wiedergegebene Darstellung ist in ihrer Komposition virtuos und lässt unter anderem im Kolorit deutliche Bezüge zur venezianischen Malerei des 16. Jahrhunderts erkennen. Seit einer Übersetzung von 1600 lag das Gedicht Tassos auch in englischer Sprache vor und war am Hof des englischen Königs Charles I. (1600-1649) sehr beliebt. Dieser beauftragte Van Dyck 1629 damit, eine Darstellung des Themas anzufertigen (das Gemälde befindet sich heute im Baltimore Museum of Art). Das Potsdamer Bild ist ebenfalls ein Original Van Dycks, das das Gemälde in Baltimore in etwas kleinerem Format wiederholt. König Friedrich II. von Preußen (1712-1786) hatte es 1756 für seine damals noch im Bau befindliche Bildergalerie im Park von Sanssouci aus der berühmten Sammlung des Duc de Tallard erwerben lassen. \r\n\r\nEs befindet sich noch heute in der Bildergalerie von Sanssouci. \r\n\r\nDr. Alexandra Nina Bauer (November 2016 / Oktober 2017)",
+        "creator": "Anthonis van Dyck",
+        "date": "1629",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16583/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16583",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Anthonis van Dyck"
+          },
+          {
+            "label": "gemalt",
+            "value": "1629"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16583/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7357/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7357/manifest",
+        "title": "Heiliger Hieronymus",
+        "description": "Der heilige Hieronymus (Mitte des 4. Jh. - 420 n. Chr.) gehört zu den vier bedeutenden Kirchenvätern. Sein wichtigstes Werk war eine Bibelübersetzung aus dem Griechischen in die lateinische Sprache. In der Malerei wurde er traditionell in zwei Darstellungstypen wiedergegeben: Als Gelehrter in der Studierstube und als Eremit vor Landschaftshintergrund. Rubens zeigt einen kraftvollen Kirchenvater, der intensiv an der Bibelübersetzung arbeitet. Stillebenartige Bücherarrangements verweisen auf seine zahlreichen Schriften, die Sanduhr auf den Vanitasgedanken und der Kardinalshut auf die Berufung des Kirchenvaters. Vermutlich wählte Rubens den kräftigen Hieronymus-Typus anstelle eines ausgezehrten alten Eremiten, um ihn als kämpferischen und engagierten Gelehrten des Christentums zu charakterisieren. Das Gemälde entstand kurz nach Rubens` Italienaufenthalt (1600-1608). Die dort angefertigten Skizzen nach Werken der Antike und der italienischen Renaissance beeinflusten seine späteren Arbeiten deutlich. So erkennt man beim heiligen Hieronymus verschiedene Motive aus Werken Michelangelos und von Werken der Antike. Rubens` Autorschaft war im Laufe der Jahrhunderte zeitwilig in Vergessenheit geraten, zugeschrieben wurde das Bild an Abraham van Diepenbeeck, später an Gaspar de Crayer und Abraham Janssens. Erst 1953 konnte die Zuschreibung an Rubens wieder bestätigt werden. \r\n\r\nDas Gemälde befindet sich in der Bildergalerie von Sanssouci. \r\n\r\nA. Bauer (2017)",
+        "creator": "Peter Paul Rubens",
+        "date": "1610",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16584/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16584",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Peter Paul Rubens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1610"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16584/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7358/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7358/manifest",
+        "title": "Luise Ulrike Prinzessin von Preußen (1720-1782) mit Maske in der Hand",
+        "description": "Luise Ulrike wurde als fünfte von sechs Töchtern von König Friedrich Wilhelm I. von Preußen und seiner Gemahlin Sophie Dorothea Prinzessin von Hannover geboren. 1744 heiratete sie auf Wunsch Ihres Bruders, König Friedrich II. von Preußen, den schwedischen Kronprinzen Adolf Friedrich aus dem Hause Holstein-Gottorp. Dieser wurde 1751 zum König gewählt und damit wurde Luise Ulrike zur König von Schweden. Antoine Pesne malte dieses Porträt noch bevor Luise Ulrike nach Schweden ging. \r\n\r\nFranziska Windt",
+        "creator": "Antoine Pesne",
+        "date": "1744",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16585/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16585",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Berlin"
+          },
+          {
+            "label": "gemalt",
+            "value": "1744"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Luise Ulrike von Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Schweden"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Hohenzollern (Familie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16585/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7359/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNTkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7359/manifest",
+        "title": "Die vier Evangelisten",
+        "description": "Rubens zeigt die vier Evangelisten Lukas, Matthäus, Markus und Johannes in dem Moment des Empfangens göttlicher Inspiration, die sie zum Verfassen der Evangelien bewegt. Sie sind um einen Tisch gruppiert und werden mit ihren traditionellen Attributen wiedergegeben: Lukas mit dem Stier, Matthäus mit dem Engel, Markus mit dem Löwen und Johannes mit dem Adler. Als Zeugen des Lebens Jesu nehmen die Evangelisten eine zentrale Stellung in der Vermittlung der christlichen Lehre ein und wurden in der Kunst häufig dargestellt. In der niederländischen Malerei ist Rubens` Bild eines der wenigen Gemälde, das alle vier Evangelisten gemeinsam in einer Szene zeigt. Das Gemälde entstand nur wenige Jahre nach Rubens` Italienaufenthalt (1600-1608). Friedrich II. ließ für die Einrichtung der Bildergalerie zahlreiche großformatige Werke des Künstlers erwerben und zahlte hierfür teilweise Höchstpreise. Bereits bei der Ersteinrichtung der Bildergalerie 1764 konnten insgesamt 38 Gemälde gezählt werden, die als Werke von Rubens präsentiert wurden. Nicht alle Zuschreibungen hielten jedoch dem späteren Urteil stand. Im Laufe der Jahrhunderte wurden viele Gemälde Schülern von Rubens bzw. dessen Werkstatt zugeschrieben. Heute werden noch sieben Gemälde von Rubens in der Bildergalerie gezeigt. Die \"Vier Evangelisten\", die seit 1763 in der Bildergalerie nachweisbar sind, galten bis ins ausgehende 19. Jahrhundert als Werk von Rubens` jüngerem Kollegen Anton van Dyck. \r\n\r\nDas Gemälde befindet sich in der Bildergalerie von Sanssouci. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Peter Paul Rubens",
+        "date": "1614",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16586/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16586",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Peter Paul Rubens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1614"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16586/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7360/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7360/manifest",
+        "title": "Artemisia",
+        "description": "Das Thema der Darstellung wurde in den vergangenen Jahrhunderten mit verschiedenen Frauengestalten der griechischen Geschichte in Verbindung gebracht, die einen Giftselbstmord planten - unter anderem Sophonisbe und Monime. Seit den 1950er Jahren identifiziert man die Darstellung jedoch als Geschichte der Artemisia, die im vierten Jahrhundert vor Christus lebte. Der Legende nach trank Artemisia aus Trauer um den Tod des geliebten Gatten, König Maussolos von Karien, seine Asche, um ihm ein \"lebendiges Grabmal\" zu sein. Das Gemälde, das vermutlich für Friedrich den Großen angekauft worden war, wurde am Hofe des preußischen Königs als Darstellung der Monime gedeutet. Das Gemälde ist seit 1764 in der Bildergalerie von Sanssouci verzeichnet, möglicherweise befand es sich im 17. und frühen 18. Jahrhundert in der Sammlung der niederländischen Statthalter Frederik Hendrik (1584-1647) und Willem III. (1650-1702) van Oranje-Nassau. \r\n\r\nA. Bauer (November 2016 / 2017)",
+        "creator": "Peter Paul Rubens",
+        "date": "1615-1616",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16587/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16587",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Peter Paul Rubens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1615-1616"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16587/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7361/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7361/manifest",
+        "title": "Christus in Emmaus",
+        "description": "Der römische Adlige und Kunstsammler Vincenzo Giustiniani (1564-1637) gab dieses große \"Emmausmahl\" bei Nicolas Regnier (1590-1667) in Auftrag. 1638 ist es in seinem römischen Palast nachgewiesen. Regnier orientierte sich mit seinen Gemälden stark an Caravaggio, wählte für dieses Bild jedoch ein ganz eigenes monumentales Bildformat. Neben der Darstellung des Erstaunens und Erschreckens der Jünger Jesu, die den auferstandenen Christus an der Art erkennen, wie er das Brot bricht, zeigt die Komposition Regniers auch vermeintlich nebensächliche Dinge. Besonders auffällig ist der als Repoussoirfigur eingesetzte weiße Hund. Im Inventar der Hinterlassenschaften Giustinianis wird er als \"Porträt der Hündin Dama\" bezeichnet. Das helle Tier vermittelt nicht nur kompositionell von unten nach oben und vom Vorder- in den Mittelgrund des Bildes, es bezeugt auch stellvertretend für seine Herren das Wunder der Auferstehung. König Friedrich Wilhelm III. (1770-1840) hatte große Teile der Sammlung Giustiniani erworben, die den Bestand der neu zu gründenden öffentlich zugänglichen Berliner Gemäldegalerie bereichern sollten. Die nicht verwendeten Gemälde wurden als Ersatz für solche, die für das neue Museum entnommen worden waren, 1829 in die königlichen Schlösser gegeben. Das \"Emmausmahl\" kam damals in die Bildergalerie nach Sanssouci. \r\n\r\nFranziska Windt",
+        "creator": "Nicolas Régnier",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16727/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16727",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Nicolas Régnier"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16727/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7362/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7362/manifest",
+        "title": "Raub der Europa",
+        "description": "Das Gemälde in der Bildergalerie von Sanssouci zeigt eine verlorene Komposition des sehr erfolgreichen Bologneser Malers Guido Reni (1575-1642). Von dem originalen Bild hat sich nur ein Fragment mit dem Putto in der Sammlung des Fürsten Liechtenstein erhalten. Um die Wünsche seiner Kunden nach seinen Bilderfindungen zu befriedigen, arbeitete Reni mit mehreren Mitarbeitern und Schülern zusammen. Die Kopie in der Bildergalerie könnte von Renis Schüler Ercole de Maria stammen. Sie hängt schon seit der Einrichtung der Galerie 1764 hier. König Friedrich II. von Preußen (1712-1786) gefiel sicherlich die heitere und entspannte Atmosphäre der Schilderung, die den Moment zeigt, in dem Europa und ihre Freundinnen noch nichts davon ahnen, dass sich hinter der Gestalt des scheinbar zahmen Stiers der verliebte Gott Zeus verbirgt, der Europa im nächsten Augenblick entführen wird. \r\n\r\nFranziska Windt",
+        "creator": "Ercole de Maria",
+        "date": "Nach 1630",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16728/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16728",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Ercole de Maria"
+          },
+          {
+            "label": "gemalt",
+            "value": "Nach 1630"
+          },
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Guido Reni"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Bologna"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16728/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7363/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7363/manifest",
+        "title": "Bittgang der Römerinnen zu Coriolan",
+        "description": "Das Gemälde von Ciro Ferri (1634-1689) wurde von König Friedrich II. von Preußen zusammen mit der \"Auffindung von Romulus und Remus durch den Hirten Faustulus\" von Carlo Maratta (1625-1713) im Jahr 1760 bei dem Berliner Unternehmer und Kunsthändler Johann Ernst Gotzkowsky erworben. Beide Werke waren um 1680 von Niccolò Maria Pallavicini als Pendants für den Palazzo Pallavicini all’Orso in Rom in Auftrag gegeben worden, fielen nach Pallavicinis Tod an seinen Erben Giovan Domenico Arnaldi und gelangten mit dessen Sammlung nach Florenz. Arnaldis Sohn Tommaso Niccolò Maria entschloss sich aufgrund Geldmangels, beide Gemälde zu veräußern. In der Bildergalerie von Sanssouci wurden die beiden großformatigen Werke 1763 als Pendants in den Ostflügel mit italienischer Malerei gehängt. Ferris Gemälde des Coriolan zeigt den römischen Feldherrn, der aus Rom verbannt, sich mit den Volskern verbündete und im Krieg seine alte Heimatstadt belagerte. Seine Mutter Veturia und seine Ehefrau Volumnia sind als Abgesandte Roms vor Coriolan getreten, um ihn zu bitten, die Belagerung aufzugeben. Als er zustimmt und das Heer abrücken lässt, wird er von den Volskern als Verräter verurteilt und getötet. Die Darstellung des zu Unrecht aus seiner Heimat vertriebenen Herrschers Coriolan, der auf Rache verzichtet und dafür mit seinem eigenen Leben einstehen muss, lässt sich der Thematik der Herrschertugenden zuordnen. \r\n\r\nJana Glorius-Rüedi",
+        "creator": "Ciro Ferri",
+        "date": "1680-1687",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16729/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16729",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Ciro Ferri"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Rom"
+          },
+          {
+            "label": "gemalt",
+            "value": "1680-1687"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Rom"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16729/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7364/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7364/manifest",
+        "title": "Musizierende Engel",
+        "description": "Das Gemälde von Rubens bestand ursprünglich aus zwei Skizzen, die als Entwurf für Kartons geschaffen wurden, die wiederum zur Vorlage einer Teppichserie dienten. Bei den Gobelins handelte es sich um eine Serie des \"Triumphs der Eucharistie\", die im Auftrag der Statthalterin der spanischen Niederlande, Erzherzogin Isabella Clara Eugenia (1566-1633), in Brüssel angefertigt und 1628 fertiggestellt wurde. Sie war für das Kloster \"Las Descalzas Reales\" in Madrid bestimmt. Die Skizzen wurden bald nach ihrer Entstehung zusammengefügt und teilweise übermalt, um eine einheitliche Darstellung zu gewährleisten. In der Mitte erkennt man noch heute die übermalte Fuge. Das Gemälde von Rubens wurde 1763 für König Friedrich II. von Preußen aus der Den Haager Sammlung Willem Lormier (1682-1758) erworben. Seitdem befindet es sich in der Bildergalerie von Sanssouci. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Peter Paul Rubens",
+        "date": "1626-1627",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16730/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16730",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Peter Paul Rubens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1626-1627"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16730/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7365/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7365/manifest",
+        "title": "Christus als Salvator Mundi",
+        "description": "Das Gemälde Anton van Dycks (1599-1641) zeigt Christus als \"Salvator Mundi\", als Erlöser der Welt: seine linke Hand (als Weltenherrscher) auf die Weltkugel gelegt, die andere im Segensgestus erhoben. Van Dyck orientierte sich hier an einem traditionellen Darstellungstypus. Ähnliche, meist halbfigurige Kompositionen existierten seit um 1500 in der Malerei nördlich und südlich der Alpen. Die Komposition des Bildes war ursprünglich kleiner - sie war auf einen Ausschnitt kurz unterhalb der Kugel, knapp neben den Händen und oberhalb des Kopfes begrenzt. Bald darauf wurde die Darstellung an allen Seiten um fast 10 cm vergrößert. Gemeinsam mit dem ebenfalls vergrößerten Gegenstück - Maria als Fürbitterin - war das Gemälde seit 1764 Teil der Ausstattung des Kabinetts in der Bildergalerie Friedrichs des Großen. Dort wird es auch heute noch gezeigt. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Anthonis van Dyck",
+        "date": "1620",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16732/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16732",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Anthonis van Dyck"
+          },
+          {
+            "label": "gemalt",
+            "value": "1620"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16732/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7366/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7366/manifest",
+        "title": "Venus in der Werkstatt des Vulkan (Thetis empfängt von Hephaistos die Waffen für Achill)",
+        "description": "Seit 1764 hing das Gemälde van Dycks als Darstellung der \"Venus in der Werkstatt des Vulkan\" in der Potsdamer Bildergalerie König Friedrichs II. von Preußen, wo es sich auch heute noch befindet. Heutzutage gilt es als Darstellung der \"Thetis, die von Hephaistos die Waffen für Achill empfängt\". Das Bild gelangte Anfang der 1680er Jahre über das Erbe der Statthalterwitwe der Vereinten Republik der Niederlande, Amalia von Solms (1602-1675) in die kurbrandenburgischen Sammlungen. Sie hatte es ihrem Enkel, dem Markgrafen Ludwig von Brandenburg (1666-1687) hinterlassen. Zuvor befand es sich vermutlich 1641 in der Sammlung des Abbé Cesare Alessandro Scaglia in Antwerpen. Eine zweite Version der Darstellung befindet sich heute im Kunsthistorischen Museum in Wien. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Anthonis van Dyck",
+        "date": "1630-1632",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16733/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16733",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Anthonis van Dyck"
+          },
+          {
+            "label": "gemalt",
+            "value": "1630-1632"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Thetis (Mythologie)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16733/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7367/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7367/manifest",
+        "title": "Maria als Mater Dei (mit fürbittend erhobenen Händen)",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7368/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjgvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7368/manifest",
+        "title": "Südamerikanischer Urwald - Jagd auf den Jaguar",
+        "description": "Ferdinand Bellermann wurde zunächst in Weimar als Porzellanmaler und ab 1833 an der Berliner Akademie der Künste als Landschaftsmaler ausgebildet. Reisen nach Norwegen, Südamerika und Italien spiegeln sich in seinen Werken. Prägend für sein Oeuvre war jedoch die von König Friedrich Wilhelm IV. von Preußen geförderte dreijährige Reise nach Venezuela, 1842-1845. Die auf dort angefertigten Studien basierenden \"Urwaldlandschaften\" - tropische Landschaften Venezuelas - gehören zu seinen bekanntesten Gemälden. In den preußischen Sammlungen befanden sich einst mindestens 19 Gemälde von seiner Hand, daneben zahlreiche Ölskizzen, Aquarelle und Zeichnungen. Die großformatige \"Jagd auf den Jaguar\" wurde 1865 von König Wilhelm I. von Preußen (der spätere Kaiser Wilhelm I.) beim Künstler in Auftrag gegeben, nachdem dieser eine Skizze eingereicht hatte. Es entstand als formatgleiches Gegenstück zu einer bereits drei Jahre zuvor angefertigten \"Urwaldlandschaft\" Bellermanns (GK I 802). Heute sind beide Gemälde im Schloss Charlottenburg zu sehen. Zwei weitere formatgleiche Darstellungen der Landschaft Venezuelas, deren Verbleib heute unbekannt ist, gehörten ebenfalls zu dem Ensemble, das im Berliner Schloss aufbewahrt wurde.\r\n\r\nSehr nah am Betrachter:innenstandpunkt eröffnet der „Südamerikanische Urwald – Jagd auf den Jaguar“ den Blick auf eine Schlucht mit Flussverlauf und Wasserfall. Oberhalb der Schlucht grenzt ein Wald mit der üppigen und vielfältigen Vegetation Venezuelas an. In der Ferne erscheint die Silhouette einer Hügelkette. Im Zentrum des Bildes zeigt Bellermann die Szene einer Jaguarjagd. Über der Schlucht dienen umgeknickte Baumstämme als Brücke, die schon von zwei Männern überquert wurde, um einen Jaguar zu verfolgen. Das Tier versucht zu fliehen, wurde jedoch bereits von einem Pfeil getroffen. Zwei Männer und eine Frau befinden sich noch auf der anderen Seite und sind im Begriff, die beiden vorausgelaufenen Männer bei der Jagd zu unterstützen. Eine weitere Figur ist lediglich schemenhaft im Dickicht des Waldes im rechten Hintergrund zu erkennen. Die Männer sind unbekleidet und die einzige Frau der Gruppe trägt einen weißen Lendenschurz. Alle sind mit Pfeil und Bogen oder mit einem Speer bewaffnet.\r\n\r\nDas Motiv der Jaguarjagd hatte der Maler Johann Moritz Rugendas, der in der Nachfolge Alexander von Humboldts 1822 bis 1825 nach Brasilien gereist war, bereits in seinem illustrierten Reisewerk „Malerische Reise in Brasilien“ veröffentlicht. Da dieser Reisebricht eine große Öffentlichkeit erlangte, ist es wahrscheinlich, dass Bellermann die darin enthaltenen Abbildungen kannte und bei diesem Bild aufgriff. Zwar konnte Bellermann die abgebildeten Tiere und Menschen auf seiner Reise vor Ort sehen, doch widmete er sich mit Leidenschaft eher der Darstellung der dortigen Landschaft. Die figürlichen Szenen hielt er in seinem Skizzenbuch fest, um sie später gegebenenfalls als Staffage in seine Landschaften einzufügen. Dieses Gemälde entstand fast 20 Jahre nach seiner Rückkehr. Der Künstler orientierte sich hierbei an seinen vor Ort gemachten Skizzen und komponierte daraus später eine detaillierte Landschaft, die er dann mit figürlicher Staffage versah. Die dargestellte Natur ist folglich kein genaues Abbild eines Landschaftsausschnittes. Er interessierte sich vielmehr für die künstlerische Wiedergabe eines Gesamteindrucks des venezolanischen Naturcharakters und der detailliert ausgearbeiteten Vegetation. Deshalb verwundert es nicht, wenn er die Menschen der indigenen Bevölkerung und die einheimische Tierwelt nur als Beiwerk erscheinen lässt, um die vermeintliche „Exotik“ des venezolanischen Urwaldes zu verdeutlichen. In seinem Tagebuch beschreibt der Künstler unterschiedliche Begegnungen mit der indigenen Bevölkerung. Teilweise sei er auf Ausflügen zufällig auf sie gestoßen und teilweise habe er sie als Reiseführer in Dienst genommen. Dabei bleibt es unklar, unter welchen Umständen und Verhältnissen seine Beobachtungen zustande kamen.\r\n\r\nSowohl in seinen schriftlichen Äußerungen, als auch in seinen bildlichen Darstellungen wird seine europäische Sichtweise auf die indigene Bevölkerung deutlich. In seinen Gemälden führt er den europäischen Betrachter:innen einen Kontrast zu der eigenen Erfahrungswelt vor Augen und wird somit – dem Zeitgeschmack entsprechend – den Erwartungen des europäischen „Exotismus“ gerecht.\r\n\r\nDr. Alexandra Nina Bauer (2017) / Carina Anderwald (2022)",
+        "creator": "Ferdinand Konrad Bellermann",
+        "date": "1866",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16595/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16595",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Ferdinand Konrad Bellermann"
+          },
+          {
+            "label": "gemalt",
+            "value": "1866"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16595/full/1000,/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7369/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNjkvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7369/manifest",
+        "title": "Elisabeth Sophie (1674-1748) Markgräfin von Brandenburg, Herzogin von Kurland (1691-1698), Markgräfin von Brandenburg-Bayreuth (1703-1712), Herzogin von Sachsen-Meiningen",
+        "description": "Elisabeth Sophie war eine Tochter des „Großen Kurfürsten“ Friedrich Wilhelm von Brandenburg (1620–1688) aus dessen zweiter Ehe mit Dorothea Sophie (1636–1689), Tochter des Herzogs Philipp von Schleswig-Holstein-Sonderburg-Glücksburg. Am 29. April 1691 (mit 17) heiratete sie in Berlin ihren Cousin Herzog Friedrich Kasimir von Kurland (1650–1698) aus dem Haus Kettler. Nach dem Tod ihres Mannes floh sie 1700 mit dem Erbprinzen aus Kurland, welches zu einem Schauplatz des Großen Nordischen Krieges wurde, an den Hof ihres Halbbruders Friedrich. Ihr zweiter Ehemann wurde am 30. März 1703 in Potsdam Markgraf Christian Ernst von Brandenburg-Bayreuth (1644–1712). Ihr Porträt von Gedeon Romandon entstand wahrscheinlich vor ihrer Abreise nach Kurland 1691. \r\n\r\nFranziska Windt",
+        "creator": "Gedeon Romandon",
+        "date": "1691",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16596/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16596",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Gedeon Romandon"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Berlin"
+          },
+          {
+            "label": "gemalt",
+            "value": "1691"
+          },
+          {
+            "label": "abgebildet",
+            "value": "Elisabeth Sophie von Brandenburg"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16596/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7370/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNzAvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7370/manifest",
+        "title": "Südamerikanische Urwaldlandschaft mit Ureinwohnern am Lagerfeuer",
+        "description": "Ferdinand Bellermann wurde zunächst in Weimar als Porzellanmaler und ab 1833 an der Berliner Akademie der Künste als Landschaftsmaler ausgebildet. Reisen nach Rügen, Norwegen, Südamerika und Italien spiegeln sich in seinen Werken. Prägend für sein Oeuvre war jedoch die von König Friedrich Wilhelm IV. von Preußen geförderte dreijährige Reise nach Venezuela, 1842-1845. Die auf dort angefertigten Studien basierenden \"Urwaldlandschaften\" - tropische Landschaften Venezuelas - gehören zu seinen bekanntesten Gemälden. In den preußischen Sammlungen befanden sich einst mindestens 19 Gemälde von seiner Hand, daneben zahlreiche Ölskizzen, Aquarelle und Zeichnungen. Die \"Waldpartie bei San Esteban“ (Südamerikanische Urwaldlandschaft mit Ureinwohnern am Lagerfeuer) wurde 1862 von König Wilhelm I. von Preußen (der spätere Kaiser Wilhelm I.) beim Künstler in Auftrag gegeben, nachdem dieser eine Skizze eingereicht hatte. Hierbei handelt es sich möglicherweise um GK I 51037. Heute sind beide Gemälde im Schloss Charlottenburg zu sehen Drei Jahre später entstand die \"Jagd auf den Jaguar\" als formatgleiches Gegenstück (GK I 799). Zwei weitere formatgleiche Darstellungen der Landschaft Venezuelas, deren Verbleib heute unbekannt ist, gehörten ebenfalls zu dem Ensemble, das im Berliner Schloss aufbewahrt wurde.\r\n\r\nIn seiner „Waldpartie bei San Esteban (Südamerikanische Urwaldlandschaft mit Ureinwohnern am Lagerfeuer)“ von 1863 gibt Bellermann den Blick auf einen Fluss frei, der sich ausgehend vom unteren rechten Bildrand diagonal durch die Bildfläche erstreckt. Am Ufer zeigt sich eine detailliert ausgeführte Pflanzenvielfalt verschiedener Bäume und anderer Gewächse. Ein umgeknickter Baumstamm hat sich in den Felsblöcken im Bach verfangen und ragt schräg vom Ufer in das Gewässerbett. Im rechten Hintergrund eröffnet sich der Blick auf eine Bergformation mit einem kleinen Wasserfall. Im Zentrum des Bildes sitzt ein buntes Papageienpaar. Ein Jaguar schleicht oberhalb des linken Ufers zwischen den Bäumen in das Waldinnere hinein. Erst auf den zweiten Blick erscheinen im Hintergrund des rechten Bilddrittels Menschen der indigenen Bevölkerung Venezuelas um ein Lagerfeuer gruppiert.\r\n\r\nDie Menschen sind dabei nicht als Individuen zu erkennen, sondern als stereotypische Gruppe. Zwar konnte Bellermann die abgebildeten Tiere und Menschen auf seiner Reise sehen, doch widmete er sich mit Leidenschaft eher der Landschaftsmalerei. Die figürlichen Szenen hielt er in seinem Skizzenbuch fest, um sie später gegebenenfalls als Staffage in seine Landschaften einzufügen. Die „Waldpartie bei San Esteban“ entstand fast 20 Jahre nach seiner Rückkehr. Der Künstler orientierte sich an seinen vor Ort gemachten Skizzen und komponierte daraus später eine detaillierte Landschaft, die er dann mit figürlicher Staffage versah. Die dargestellte Natur ist folglich kein genaues Abbild eines Landschaftsausschnittes. Sein Interesse folgte vielmehr der künstlerischen Wiedergabe seines Gesamteindrucks des venezolanischen Naturcharakters und der detailliert ausgearbeiteten Vegetation. Deshalb verwundert es nicht, wenn er die Menschen der indigenen Bevölkerung und die einheimische Tierwelt nur als Beiwerk erscheinen lässt, um die vermeintliche „Exotik“ des venezolanischen Urwaldes zu verstärken. In seinem Tagebuch beschreibt der Künstler unterschiedliche Begegnungen mit der indigenen Bevölkerung. Teilweise sei er auf Ausflügen zufällig auf sie gestoßen und teilweise habe er sie als Reiseführer in Dienst genommen. Dabei bleibt es unklar, unter welchen Umständen und Verhältnissen seine Beobachtungen zustande kamen.\r\n\r\nSowohl in seinen schriftlichen Äußerungen als auch in seinen bildlichen Darstellungen wird seine europäische Sichtweise auf die indigene Bevölkerung deutlich. In seinen Gemälden führt er den europäischen Betrachter:innen einen Kontrast zu der eigenen Erfahrungswelt vor Augen und wird somit – dem Zeitgeschmack entsprechend – den Erwartungen des europäischen „Exotismus“ gerecht.\r\n\r\nDr. Alexandra Nina Bauer (2017) / Carina Anderwald (2022)",
+        "creator": "Ferdinand Konrad Bellermann",
+        "date": "1863",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16597/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16597",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Ferdinand Konrad Bellermann"
+          },
+          {
+            "label": "gemalt",
+            "value": "1863"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16597/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7371/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNzEvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7371/manifest",
+        "title": "Diana im Bade",
+        "description": "Das größte Gemälde der Serie von Darstellungen aus Ovids Metamarphosen im Konzertzimmer von Schloss Sanssouci zeigt Diana, die Göttin des Mondes und der Jagd. Die keusche Schwester des Sonnengottes Apoll zieht sich in die Abgeschiedenheit des Waldes zurück, um sich zusammen mit den Nymphen in ihrer Begleitung von den Anstrengungen der Jagd auszuruhen. Pesne stellt sie in leuchtender Nacktheit zwischen der Kulisse von Tempelruinen links und eines Haines rechts dar. Auf diese Weise verbindet sie die wilde Natur mit Zeugnissen der kultivierten Welt der Antike. Der Idealvorstellung einer solchen Verbindung versuchte auch König Friedrich II. zu folgen und in seinem Lustschloss Sanssouci zu finden. \r\n\r\nFranziska Windt",
+        "creator": "Antoine Pesne",
+        "date": "1747",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16598/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16598",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Berlin"
+          },
+          {
+            "label": "gemalt",
+            "value": "1747"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Ovid (Publius Ovidius Naso)"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Schloss Sanssouci"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16598/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7372/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNzIvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7372/manifest",
+        "title": "Théodor Giou (Gigou) de Briou (1649-1720)",
+        "description": "Bildnis",
+        "creator": "Antoine Pesne",
+        "date": "1711",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16735/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16735",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Antoine Pesne"
+          },
+          {
+            "label": "gemalt",
+            "value": "1711"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Preußen"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Frankreich"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16735/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7373/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNzMvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7373/manifest",
+        "title": "Mann in orientalischer Kleidung",
+        "description": "Das Gemälde entstand um 1629/31 in einer frühen Schaffensphase von Jan Lievens, in der er sich in Leiden intensiv mit den Werken Rembrandts auseinandersetzte. Es wurde für den in Den Haag residierenden Statthalter der Republik der Vereinten Niederlande, Frederik Hendrik van Oranje-Nassau (1584-1647) geschaffen und gelangte 1742 über die so genannte \"Oranische Erbschaft\" in die preußischen Sammlungen, ins Berliner Schloss. Thema der Darstellung ist ein fiktiver orientalischer Herrscher, dessen phiognomischer Ausdruck, die Exotik des Kostüms und das kontrastreiche Wechselspiel von Licht und Schatten. Das reduzierte Kolorit changiert sehr feinsinnig zwischen silbrig-weiß, golden und blau. Lievens und Rembrandt schufen in den späten 1620er Jahren zahlreiche Darstellungen von Menschen in phantasievollen Kostümen, die weit über reine Ausdrucksstudien hinausgehen. \r\n\r\nDas Gemälde wird heute in der Bildergalerie von Sanssouci präsentiert. \r\n\r\nA. Bauer (November 2016)",
+        "creator": "Jan Lievens",
+        "date": "1629-1631",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16600/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16600",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Jan Lievens"
+          },
+          {
+            "label": "gemalt",
+            "value": "1629-1631"
+          },
+          {
+            "label": "beauftragt von",
+            "value": "Friedrich Heinrich von Oranien-Nassau"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16600/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7374/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNzQvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7374/manifest",
+        "title": "Das Jägertor in Potsdam",
+        "description": "Das 1733 erbaute Jägertor ist das älteste, in seiner Ursprungsform bewahrte Potsdamer Stadttor. Es wurde im Zuge der barocken Stadterweiterung unter dem preußischen König Friedrich Wilhelm I. errichtet. Das damals in die Stadtmauer Potsdams integrierte Tor begrenzte die Stadt nach Norden, zum Schutz vor Zollvergehen und der Desertion von Soldaten. Nachdem sowohl die Stadtmauer als auch die Torhäuser im 19. Jahrhundert abgerissen wurden, steht das Jägertor heute vereinzelt im Stadtbild. Dismar Degen war um 1730 als Hofmaler König Friedrich Wilhelms I. in Preußen tätig. \r\n\r\nDas Gemälde wird im Schloss Königs Wusterhausen präsentiert. \r\n\r\nA. Bauer (2012/2017)",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16601/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16601",
+        "metadata": [
+          {
+            "label": "hergestellt von",
+            "value": "Dismar Degen"
+          },
+          {
+            "label": "hergestellt",
+            "value": "1735-1739"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Potsdam"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16601/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7375/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczNzUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7375/manifest",
+        "title": "Die Ausgießung des Heiligen Geistes",
+        "description": "Die \"Ausgießung des Heiligen Geistes\", ein Frühwerk des Flamen Antonis van Dyck (1599-1641) von um 1618-1620, war ursprünglich Teil einer Serie von drei Gemälden, die spätestens 1660 in der Abtei ter Duinen in Brügge hingen. 1755 wurden sie gemeinsam für König Friedrich II. von Preußen in Brügge für 20.000 florins erworben und seit 1763 im mittleren Kuppelsaal (Tribuna) der Bildergalerie von Sanssouci präsentiert. Sie gehörten seit damals zu den Spitzenwerken der Galerie. Die beiden anderen dazugehörigen Bilder - die \"Dornenkrönung\" und die \"Hl. Johannes der Täufer und Hl. Johannes der Evangelist\" (\"Die beiden Johannes\") von van Dyck gehören seit 1945 zu den Kriegsverlusten der SMB Gemäldegalerie PK, Berlin. In der \"Ausgießung des Heiligen Geistes\" stellte van Dyck das Pfingstwunder dar, das in der Apostelgeschichte des Neuen Testaments (2, 1-4) geschildert wird: Zu Pfingsten versammelten sich die Apostel und wurden vom heiligen Geist erfüllt, so dass sie anfingen, in anderen Sprachen zu predigen. Der dunkle Raum wird im Gemälde von oben nur durch das göttliche Licht erhellt, die Taube des Heiligen Geistes schwebt über den ergriffenen Aposteln. Über ihren Köpfen haben sich kleine Flammen niedergesetzt, als Zeichen der Aufnahme des heiligen Geistes. \r\n\r\nDas Gemälde wird in der Bildergalerie von Sanssouci gezeigt.\r\n\r\nDr. Alexandra Nina Bauer",
+        "creator": "Anthonis van Dyck",
+        "date": "1618-1620",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/16602/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/16602",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Anthonis van Dyck"
+          },
+          {
+            "label": "gemalt",
+            "value": "1618-1620"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/16602/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7385/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczODUvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7385/manifest",
+        "title": "Amazonenschlacht",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7386/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczODYvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7386/manifest",
+        "title": "Ansicht Berlins von Nordwesten",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7387/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzczODcvbWFuaWZlc3Q",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/7387/manifest",
+        "title": "Kunstkammerregal",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11710/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzEwL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11710/manifest",
+        "title": "Diana und Endymion",
+        "metadata": []
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11711/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzExL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11711/manifest",
+        "title": "Sibylle",
+        "description": "Die antike Seherin Sibylle ist hier als Halbfigur dargestellt, in weitem Gewand und einem gebundenen Tuch, das ihr Haupt in einem voluminösen Ring bekrönt. Ihr Blick fixiert den Betrachter, dabei hält sie mit der Hand ein offenes Buch, dessen Seiten jedoch unbeschrieben sind. Der Legende zufolge bot die Seherin Sibylle von Cumae im 6. Jahrhundert v. Chr. dem römischen König Tranquinus Superbus neun Bücher mit Weissagungen zum Kauf an. Als dieser den Kauf aufgrund des hohen Preises ablehnte, verbrannte sie drei der Bücher und offerierte ihm die verbliebenen sechs zum gleichen Preis. Erneut lehnte der König ab und sie verbrannte drei weitere, um ihm daraufhin die letzten verbliebenen Bücher wieder zum gleichen Preis anzubieten. Tarquinius kaufte schließlich die drei verbliebenen Bücher, um die letzten wertvollen Prophezeiungen zu sichern und verwahrte sie in einem Gewölbe des Jupitertempels auf dem Kapitol in Rom. Diese sog. „Sibyllinschen Bücher“ wurden vom römischen Senat bei wichtigen Angelegenheiten zu Rate gezogen.\r\n\r\nDiese Darstellung einer „Sibylle“ wurde als Werk des Malers Giorgio da Castelfranco (1478-1510), gen. Giorgione, im frühen 19. Jahrhundert mit Teilen der Sammlung Giustiniani erworben. Heute gilt das Gemälde als Kopie nach Giorgione. Ausschlaggebend für diese Einschätzung mag der Qualitätsunterschied sein, der sich im Vergleich mit Giorgiones Œuvre zeigt, und an der mangelnden Plastizität der Darstellung sowie am Umgang mit dem Kolorit am deutlichsten festzustellen ist. \r\n\r\nBemerkenswert ist die Ähnlichkeit dieser Sibyllen-Darstellung zu Tizians Allegorie „Eitelkeit der Welt“ (97 x 81,2 cm) um 1520 datiert, und heute in der Bayerischen Staatsgemäldesammlungen, Alte Pinakothek München. In der Forschung zählt Tizians Gemälde zu dessen Frühwerk. Formal zeigt es starke Bezüge zur giustinianschen Sibyllen-Darstellung: Bildausschnitt, Pose und Modell wirken gleich. Anders jedoch als die Sibylle, hält die personifizierte Eitelkeit einen Spiegel in ihrer Hand. In einer ersten Fassung des Gemäldes sei dieser leer dargestellt gewesen und erst später durch Tizian selbst um ein Spiegelbild ergänzt worden. Auch die Giorgione zugeschriebene Sibylle hält in ihrem unbeschriebenen Buch Raum frei für malerische wie gedankliche Ergänzungen.\r\n\r\nBefindet sich derzeit im zentralen Depot der SPSG. \r\n\r\nFranziska Ratajczak",
+        "creator": "Giorgione",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25798/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25798",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Giorgione"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25798/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11712/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzEyL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11712/manifest",
+        "title": "Blick auf Rom vom Monte Mario",
+        "description": "Diese 1749 datierte Vedute des barocken Rom von Giovanni Paolo Panini (1691–1765) bildet schon seit 1750 im Dritten Kavalierzimmer das Gegenstück zu Paninis Darstellung des Forum Romanum, das Reste des Zentrums des antiken Rom zeigt. Mit diesem Pendant war es Friedrich II., der nie nach Italien reisen konnte, möglich, das sog. „Roma antica“ mit dem „Roma moderna“ zu vergleichen. Diese Gegenüberstellung war in der Zeit beliebt und diente auch als Titel des 1745 publizierten Stadtführers „Roma antica e moderna“, der von Reisenden der Grand Tour gern genutzt wurde. \r\n\r\nDie Vedute vermittelt einen lebhaften Eindruck von der Topographie und Gestalt der päpstlich geprägten Stadt. Dargestellt ist der Blick über die Weinberge und Felder an der Stelle des heutigen Stadtteils Prati am Fuße des Monte Mario von dem aus Pilger und Reisende die Stadt erblickten, die sich ihr von Norden näherten. Deutlich sind die zahlreichen Kirchtürme und Kuppeln zu erkennen, die das Stadtbild Roms Mitte des 18. Jahrhunderts prägten. Besonders prominent erscheinen rechts im Bild der Vatikan mit Petersdom und mittig das antike Hadrians-Mausoleum, das mit der Statue des Erzengels Michael und der Flagge des Kirchenstaates zur Engelsburg, einem päpstlichen Gefängnis, umgewidmet worden war. Befindet sich in Schloss Sanssouci. \r\n\r\nFranziska Windt",
+        "creator": "Giovanni Paolo Pannini",
+        "date": "1749",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25799/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25799",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Giovanni Paolo Pannini"
+          },
+          {
+            "label": "gemalt",
+            "value": "1749"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          },
+          {
+            "label": "wurde abgebildet in",
+            "value": "Rom"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25799/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11713/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzEzL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11713/manifest",
+        "title": "Madonna Tempi",
+        "description": "Während eines Italienaufenthalts von 1818 bis 1820 studierte der schlesische Maler Carl Adalbert Herrmann intensiv die Werke Raffaels und fertigte einige Kopien an. Seine Kopie der Madonna Tempi im Potsdamer Raffaelsaal des Orangerieschlosses ist sehr getreu und wahrscheinlich vor dem Original entstanden, das sich zur Zeit seiner Reise in Florenz befand. Ludwig I. von Bayern (1786–1868) konnte es 1829 von der Florentiner Familie Tempi erwerben. Heute befindet sich Raffaels Tafelgemälde in der Alten Pinakothek in München. \r\n\r\nDie Potsdamer Kopie weist auch einige Unterschiede zum Original auf. Nicht ganz getroffen sind die Farben, besonders die der Inkarnate und der Schleier, die in der Kopie weniger transparent wirken. Außerdem hat Herrmann den Ausschnitt des roten Kleides und den Saum des Mantels der Maria mit einer goldfarbenen Schriftbordüre versehen, die am Original sehr viel unauffälliger ist. Herrmanns Goldornamente gleichen eher den Buchstabenornamenten an der Kleidung von Raffaels Madonna Canigiani, die sich heute ebenfalls in der Alten Pinakothek befindet. \r\n\r\nKönig Friedrich Wilhelm III. erwarb die Kopie 1830 vom Künstler. \r\n\r\nDas Werk befindet sich derzeit im Orangerieschloss.\r\n\r\nFranziska Windt",
+        "creator": "Carl Adalbert Herrmann",
+        "date": "Vor 1830",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25800/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25800",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Carl Adalbert Herrmann"
+          },
+          {
+            "label": "gemalt",
+            "value": "Vor 1830"
+          },
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25800/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11714/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzE0L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11714/manifest",
+        "title": "Sixtinische Madonna",
+        "description": "Die heilige Jungfrau Maria mit dem Jesuskind im Arm, auf Wolken in einer lichtblauen Glorie von Engelsköpfen schwebend, thront im Zentrum des Gemäldes. Rechts von ihr ist der Heilige Sixtus gezeigt, zu ihrer Linken steht die Heilige Barbara. Unterhalb dieser Dreiecks-Komposition lehnen auf einer Brüstung zwei Engelsknaben.\r\n\r\nFriedrich Burys Kopie von Raffaello Sanzios, gen. Raffael (1483-1520), „Sixtinischer Madonna“ (Galerie Alte Meister, Dresden) begründete die Sammlung von Raffael Kopien, die heute im Orangerieschloss im Park Sanssouci versammelt sind. Da die Kopie vor der Restaurierung des Originals 1827 entstand, bei der ein umgeschlagener Leinwandteil wieder aufgedeckt wurde, unterscheiden sich die beiden Gemälde heute stärker als zur Entstehungszeit. Burys Gemälde wurde 1804 durch Luise und Ihre Kinder als Geburtstagsgeschenk für Friedrich Wilhelm III. in Auftrag gegeben. Während seines Aufenthaltes in Paris 1814, anlässlich des Ersten Pariser Friedens, ließ er noch weitere Raffael Kopien nach Originalen anfertigen, die er im Musée Napoléon im Louvre gesehen hatte. Später sollten viele dieser Kopien im eigens dafür geschaffenen Raffaelsaal im Orangerieschloss ihren Platz finden. \r\n\r\nWerke Raffaels zählen zu den prestigeträchtigsten Stücken einer Kunstsammlung und waren nur schwer auf dem Kunstmarkt zu erwerben. Unter zähen Verhandlungen gelang es 1754 August III. von Sachsen-Polen Raffaels „Sixtinische Madonna“ für seine Dresdner Sammlung zu erwerben. Im 19. Jahrhundert sollte sich der Kult um den Künstler Raffael noch verstärken. Burys Kopie in Originalgröße, sowie alle weiteren in Sammlung der SPSG befindlichen Raffael-Kopien sind Ausdruck dieser Wertschätzung. Darüber hinaus verdeutlichte sich mit der öffentlichen Präsentation der Werke im Raffaelsaal die traditionelle Fürstentugend, Kunst zu fördern und sie zur Belehrung und Geschmacksbildung der Untertanen zu nutzen. \r\n\r\nBefindet sich im Orangerieschloss. \r\n\r\nFranziska Ratajczak",
+        "creator": "Friedrich Bury",
+        "date": "1801-1804",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25801/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25801",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Friedrich Bury"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Dresden"
+          },
+          {
+            "label": "gemalt",
+            "value": "1801-1804"
+          },
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25801/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11715/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzE1L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11715/manifest",
+        "title": "Heilige Cäcilie",
+        "description": "Die Heilige Cäcilie lauscht, im Zentrum des Gemäldes, dem Gesang von Engeln, die in den Wolken über ihr thronen. Links von ihr sind die Evangelisten Johannes und Paulus dargestellt. Maria Magdalena und der Heilige Augustinus sind rechts von ihr gezeigt. \r\n\r\nDas von Raffael Sanzio, gen. Raffael, 1513 gemalte Original für die Kapelle der Heiligen Cäcilie der Kirche San Giovanni del Monte in Bologna, wurde 1821 durch Julius Schoppe (1795–1868) im Originalformat kopiert. Heute befindet sich das Original in der Pinacoteca Nazionale in Bologna. Die Kopie wurde 1861 durch Friedrich Wilhelm IV. erworben und ersetzte später im Raffaelsaal des Orangerieschlosses eine schlechtere, bereits vorhandene Raffaelkopie der Heiligen Cäcilie, von Johann Karl Ludwig. \r\n\r\nDas Gemälde befindet sich heute im Orangerieschloss. \r\n\r\nFranziska Ratajczak",
+        "creator": "Julius Schoppe",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25802/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25802",
+        "metadata": [
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "Vorlagen erstellt",
+            "value": "1821"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Julius Schoppe"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25802/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11716/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzE2L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11716/manifest",
+        "title": "Grablegung Christi",
+        "description": "Die Kopie der „Grablegung Christi“ nach Raffaello Sanzio, gen. Raffael durch Heinrich Lengerich wurde 1825 durch König Friedrich Wilhelme III. erworben. Zunächst im Chamoiszimmer des Kronprinzenpalais Unter den Linden in Berlin platziert, kam es später in den Raffaelsaal des Orangerieschlosses. Im Kronprinzenpalais ersetzte es eine bereits vorhandene Kopie nach Raffael von Adolf Senff (1785–1863). \r\n\r\nDas Original von Raffel befindet sich heute in der Galleria Borghese in Rom. Das 1507 durch Atalante Baglioni für die Chiesa San Francesco in Perugia gestiftete Gemälde ließ Papst Paul V. 1607 stehlen. Ursprünglich umfasste der Altar auch eine Predella mit Darstellungen der theologischen Tugenden Glaube, Liebe und Hoffnung (heute in den Vatikanischen Museen), einen Puttenfries (Galleria Nazionale dell´Umbria in Perugia) und einen Aufsatz, der Gottvater darstellte, (verschollen, heute Kopie in der Galleria Nazionale dell´Umbria, Perugia). Die Kopie ist also auch eine Teilrekonstruktion des ursprünglichen Altars durch Lengerich. \r\n\r\nDargestellt ist der tote, vom Kreuz genommene Jesus Christus, der von zwei jungen Männern in das Grab getragen wird. Maria Magdalena hält die Hand des Toten, hinter ihr Joseph von Arimathäa und Johannes. Im Hintergrund sieht man die Mutter Maria von drei Frauen gestützt. \r\n\r\nBefindet sich im Orangerieschloss. \r\n\r\nFranziska Ratajczak",
+        "creator": "Heinrich Lengerich",
+        "date": "Vor 1825",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25803/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25803",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Heinrich Lengerich"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Rom"
+          },
+          {
+            "label": "gemalt",
+            "value": "Vor 1825"
+          },
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25803/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11717/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzE3L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11717/manifest",
+        "title": "Madonna di Gaeta",
+        "description": "Cornelis Krusemann fertigte 1838 eine Kopie von Raffaello Sanzios, gen. Raffael, „Madonna di Gaeta“ im Auftrag des Königlichen Gesandter in Den Haag, Friedrich Graf von Wylich und Lottum. Das Bild sollte als Geschenk an Königin Elisabeth von Preußen die bereits vorhandene Sammlung an Raffael-Kopien ergänzen. Sie selbst reiste 1858 mit ihrem Gemahl, Friedrich Wilhelm IV. mehrere Monate durch Italien und sah dabei zahlreiche berühmte Werke italienischen Meister in Florenz und Rom. \r\n\r\nDargestellt sind in der Natur die Jungfrau Maia, im Typus der Demuts-Madonna auf dem Boden sitzend, in der Linken ein Buch haltend, und mit der Rechten den knienden Johannesknaben heranziehend, dem das Christuskind einen kleinen Kreuzstab abnimmt. \r\n\r\nGemäß den Angaben des Hofbeamten Robert Bußler, der 1861 ein Verzeichnis für den Raffael-Saal erstellte, entstand Krusemanns Kopie nach einer Version des Gemäldes „Madonna di Gaeta\" aus dem Besitz der gräflichen Familie. Erst später konnte gezeigt werden, dass es sich bei der Vorlage nicht um eine weitere Version von Raffael handelte, sondern um eine zeitgenössische Kopie der „Madonna d´Alba, Madonna di Gaeta“, aus einer Malteserkirche in Gaeta. \r\n\r\nIn seinem Eintrag zu Krusemanns Madonna versäumt Bußler es nicht, die Provenienz des Raffael-Originals darzulegen. Namenhaften Besitzer, wie der Herzog von Alba und zu Bußlers Zeit aktuell der russische Zar Nikolaus I., zeugen vom Prestige dieses Gemäldes und werten die Kopie indirekt auf. Das heute in der National Gallery Washington D.C. befindliche Gemälde Raffaels unterscheidet sich am auffälligsten durch sein Tondo-Format. \r\n\r\nBefindet sich derzeit im Orangerieschloss \r\n\r\nFranziska Ratajczak",
+        "creator": "Cornelis Kruseman",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25804/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25804",
+        "metadata": [
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "Vorlagen erstellt in",
+            "value": "Den Haag"
+          },
+          {
+            "label": "Vorlagen erstellt",
+            "value": "1838"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Cornelis Kruseman"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Niederlande"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25804/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11718/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzE4L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11718/manifest",
+        "title": "Selbstbildnis Raphaels",
+        "description": "Diese Kopie von Raffael Sanzios, gen. Raffael, Selbstbildnis aus dem Jahr 1506, wurde vom königlichen Minister-Residenten Alfred von Reumont 1859 in Florenz bestellt. Das Selbstportrait des jungen Raffael war aus der Sammlung Kardinals Leopold de‘ Medici in die Galleria degli Uffizi in Florenz gelangt und befindet sich seit 1682 in deren Besitz.\r\n\r\nDie Portraitkopie war für den Raffaelsaal im Orangerieschloss bestimmt und wurde durch Vincenzio Corsi (1810 – nach 1869) in Originalgröße ausgeführt. \r\n\r\nDas Gemälde befindet sich derzeit im Orangerieschloss. \r\n\r\nFranziska Ratajczak",
+        "creator": "Vincenzio Luigi Romolo Corsi (1810-1869)",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25805/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25805",
+        "metadata": [
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "Vorlagen erstellt in",
+            "value": "Florenz"
+          },
+          {
+            "label": "Vorlagen erstellt",
+            "value": "Vor 1869"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Vincenzio Luigi Romolo Corsi (1810-1869)"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25805/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11719/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzE5L21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11719/manifest",
+        "title": "Erzengel Michael Satan bekämpfend",
+        "description": "Der den Satan bekämpfende Erzengel Michael, wurde 1518 von Raffaello Sanzio, gen. Raffael, für Franz I. von Frankreich gemalt, und zwischen 1818 und 1821 durch Wilhelm Ternite in Paris kopiert. Das vor dem Original in Paris (heute Musée du Louvre) geschaffene Gemälde Ternites wurde 1822 durch Friedrich Wilhelm III. erworben und schmückte zusammen mit anderen Raffael-Kopien zunächst das Chamoiszimmer im Kronprinzenpalais Unter den Linden in Berlin. Dann wurde das Gemälde Teil der originalen Ausstattung des Raffaelsaales im Orangerieschloss von 1858. \r\n\r\nFranziska Ratajczak",
+        "creator": "Wilhelm Ternite",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25806/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25806",
+        "metadata": [
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "Vorlagen erstellt in",
+            "value": "Paris"
+          },
+          {
+            "label": "Vorlagen erstellt",
+            "value": "1818-1821"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Wilhelm Ternite"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25806/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11720/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzIwL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11720/manifest",
+        "title": "Apoll und Aurora",
+        "description": "Das Marmorpalais am Heiligen See, das Friedrich Wilhelm II. ab 1786 errichten ließ, wurde nach seinem Tod, durch seinen Enkel Friedrich Wilhelm IV. unter Leitung des Architekten Ludwig Ferdinand Hesse (1795–1876) um zwei Seitenfügel erweitert. Zwischen 1843 bis 1848 wurde der im Südflügel gelegene Ovale Saal mit gelbem und grünem Stuckmarmor „nach Art des giallo und des verde antico“ ausgestattet. \r\n\r\nDas zentrale Deckengemälde von Heinrich Lengerich zeigt eine Kopie nach Guido Renis (1575–1642) „Apoll und Aurora“, ein Motiv, das auch im Festsaal des Schlosses auf der Pfaueninsel von Johann Christoph Frisch (1738–1815) ausgeführt ist. \r\n\r\nReni fertigte das Fresko als Auftragsarbeit für den Palazzo Pallavicini Rospigliosi des Kardinals Scipione Borghese in Rom. Dort befindet es sich noch heute im Casino dell`Aurora. Das Fresko gehört zu Renis populärsten Werken und erfuhr große Aufmerksamkeit. Dazu beigetragen hat sicherlich ein Stich des Volpato-Schülers Raffaello Morghen (1758–1833) sowie überschwänglich lobende Äußerungen des britischen Dichters Lord Byron (1788–1824).\r\n\r\nLengerichs ovales Deckengemälde im Marmorpalais zeigt Aurora, die Göttin der Morgenröte in Begleitung eines, Fackel tragenden, Putto. Ihr folgend ist der vierspännige Wagen des Sonnengottes Apoll dargestellt. Er wird von sieben Stundengöttinnen, den sog. Horae begleitet. \r\n\r\nBefindet sich im Marmorpalais. \r\n\r\nFranziska Ratajczak",
+        "creator": "Heinrich Lengerich",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25807/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25807",
+        "metadata": [
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Guido Reni"
+          },
+          {
+            "label": "Vorlagen erstellt in",
+            "value": "Potsdam"
+          },
+          {
+            "label": "Vorlagen erstellt",
+            "value": "1845"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Heinrich Lengerich"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25807/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11721/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzIxL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11721/manifest",
+        "title": "Madonna della Sedia",
+        "description": "Das ab 1822 im Kronprinzenpalais Unter den Linden in Berlin nachweisbare Gemälde im Tondo Format „Madonna della Sedia“ (auch Madonna della Seggiola) von Karl Begas (1794–1854) wurde 1814 in Paris nach dem Original von Raffael Sanzio, gen. Raffael, in Originalgröße gefertigt. Ein Jahr später erwarb es Friedrich Wilhelm III. und hängte es zunächst im Chamoiszimmer des Kronprinzenpalais. \r\n\r\nDargestellt sind Maria, auf einem Sessel sitzend, mit dem Christus Kind auf ihrem Schoß. An ihrer Seite ist der Johannesknabe mit dem Kreuzstab zu sehen.\r\n\r\nDas um 1514 in Rom entstandene Gemälde Raffaels begeisterte, wie viele seiner Werke, seine Künstlerkollegen und nachkommende Generationen. Die Popularität des Gemäldes spiegelt sich beispielhaft in dessen Darstellung in Johann Zoffanys (1733–1810) „Die Tribuna der Uffizien“ (1770). Zwischen 1799 und 1815 befand sich das Gemälde in Paris, wo es durch Begas kopiert wurde. Heute ist Raffaels Gemälde im Palazzo Pitti in Florenz zu sehen.Die Potsdamer Kopie wurde mit der Entstehung des Raffaelsaals aus dem privateren Umfeld des Chamoiszimmers in Berlin in den Raffaelsaal umgehängt. Der klassizistische Rahmen wurde für den Saal mit Stuckornamente ergänzt und dadurch angepasst an die, als Pendant gehängte, Kopie nach Raffaels „Krönung Mariae“ (1858 erworben), von Karl Friedrich Bolte (1814–1877). \r\n\r\nBefindet sich derzeit im Orangerieschloss. \r\n\r\nFranziska Ratajczak",
+        "creator": "Carl Joseph Begas",
+        "date": "1814",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25808/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25808",
+        "metadata": [
+          {
+            "label": "gemalt von",
+            "value": "Carl Joseph Begas"
+          },
+          {
+            "label": "gemalt in",
+            "value": "Paris"
+          },
+          {
+            "label": "gemalt",
+            "value": "1814"
+          },
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25808/full/,100/0/default.jpg"
+      },
+      {
+        "id": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11722/manifest",
+        "detailId": "aHR0cHM6Ly9icmFuZGVuYnVyZy5tdXNldW0tZGlnaXRhbC5kZS9hcGlzL2lpaWYtcHJlc2VudGF0aW9uLzExNzIyL21hbmlmZXN0",
+        "sourceUrl": "https://brandenburg.museum-digital.de/apis/iiif-presentation/11722/manifest",
+        "title": "Vermählung Mariens",
+        "description": "\"„Lo Sposalizio“ – „Die Vermählung“ ist der Titel dieser von Luigi Antoldi 1839 geschaffenen Kopie nach dem 1504 gemalten Original (Pinacoteca di Brera, Mailand) von Raffello Sanzio (gen. Raffael). Antoldi signierte und datierte seine Kopie „Anno 1839 Aloysius Antoldi Mantuae Exci…“ auf dem Halsauschnitt des Kleides der Maria. \r\n\r\nIm Vordergrund stehen Maria und Josef einander gegenüber, während der Hohenpriester, der die Bildmitte einnimmt, die Hände des Brautpaares zum Ringtausch zusammenführt. Maria wird durch Tempeljungfrauen begleitet, während Josef von anderen Brautwerbern umringt wird. Sie beginnen ihre dürren Stäbe zu zerbrechen. Allein der Stab Josefs treibt einige Blätter an seiner Spitzen als Zeichen dafür, dass er auserwählt wurde. Ein prachtvoller, polygonaler Tempelbau ist im Hintergrund zu sehen. An dessen Architrav signierte der aus Urbino stammende Raffael sein Werk „RAPHAEL URBINAS“ und datierte es in den Zwickeln darunter \"MDIIII\", Details, die auch in der Kopie von Antoldi zu finden sind. \r\nUnter Raffaels Werken nimmt „Lo Sposalizio“ einen besonderen Stellenwert ein, da es das erste von ihm signierte und datierte Gemälde ist. Es gilt als das herausragende Kunstwerk seiner frühen Entwicklungsperiode. \r\n\r\nAls Antoldis „Lo Sposalizio“ 1847 aus dem Nachlass des Staatsministers Gustav von Rochow erworben wurde, hielt man es für eine alte Kopie. Robert Bußler merkt dies in seinem 1861 publizierten Verzeichnis für den Raffael-Saal an und verweist auf eine weitere, ebenfalls angeblich „alte Copie“ des Gemäldes, die sich im Besitz der Fürstin Liegnitz befand und die heute verschollen ist.\r\n\r\nBefindet sich derzeit im Orangerieschloss.\r\n\r\nFranziska Ratajczak",
+        "creator": "Luigi Antoldi",
+        "thumbnail": "https://brandenburg.museum-digital.de/apis/iiif-image/25809/full/,100/0/default.jpg",
+        "imageService": "https://brandenburg.museum-digital.de/apis/iiif-image/25809",
+        "metadata": [
+          {
+            "label": "Vorlagen erstellt von",
+            "value": "Raffaello Sanzio"
+          },
+          {
+            "label": "Vorlagen erstellt in",
+            "value": "Mailand"
+          },
+          {
+            "label": "Vorlagen erstellt",
+            "value": "1839"
+          },
+          {
+            "label": "gemalt von",
+            "value": "Luigi Antoldi"
+          },
+          {
+            "label": "(allgemein)",
+            "value": "Italien"
+          }
+        ],
+        "imageUrl": "https://brandenburg.museum-digital.de/apis/iiif-image/25809/full/,100/0/default.jpg"
+      }
+    ],
+    "stats": {
+      "totalObjects": 96,
+      "earliestYear": 1537,
+      "latestYear": 1866,
+      "uniqueArtists": 46
+    }
+  }
+}

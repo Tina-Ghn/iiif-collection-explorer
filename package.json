@@ -1,0 +1,28 @@
+{
+  "name": "iiif-collection-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "inspect:brandenburg": "node --experimental-strip-types scripts/fetch-brandenburg-collection.ts",
+    "sync-collection": "node --experimental-strip-types scripts/sync-collection.ts",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "15",
+    "react": "19",
+    "react-dom": "19"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "15",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}

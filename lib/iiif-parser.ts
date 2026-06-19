@@ -50,7 +50,7 @@ export function normalizeManifest(
   manifest: IIIFManifest | IIIFCollectionItem,
   fallback?: IIIFCollectionItem,
 ): NormalizedIIIFManifest {
-  const id = getManifestId(manifest) ?? getManifestId(fallback) ?? "";
+  const id = getManifestId(manifest) ?? (fallback ? getManifestId(fallback) : undefined) ?? "";
 
   return {
     id,

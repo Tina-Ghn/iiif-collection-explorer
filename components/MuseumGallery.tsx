@@ -13,16 +13,24 @@ export function MuseumGallery({ items }: MuseumGalleryProps) {
   const [query, setQuery] = useState("");
   const [artist, setArtist] = useState("");
   const normalizedQuery = query.trim().toLowerCase();
-  const artists = useMemo(
-    () => Array.from(new Set(items.map((item) => item.creator).filter(Boolean))).sort((a, b) => a.localeCompare(b)),
-    [items],
-  );
+  const artists = useMemo(() => {
+    const uniqueArtists = items
+      .map((item) => item.creator)
+      .filter((creator): creator is string => !!creator);
+  
+    return Array.from(new Set(uniqueArtists)).sort((a, b) =>
+      a.localeCompare(b)
+    );
+  }, [items]);
   const filteredItems = useMemo(
     () =>
       items.filter((item) => {
-        const matchesSearch = [item.title, item.creator, item.date]
-          .filter(Boolean)
-          .some((value) => value.toLowerCase().includes(normalizedQuery));
+        const searchableValues = [item.title, item.creator, item.date]
+  .filter((value): value is string => Boolean(value));
+
+        const matchesSearch = searchableValues.some((value) =>
+        value.toLowerCase().includes(normalizedQuery)
+        );
         const matchesArtist = !artist || item.creator === artist;
 
         return matchesSearch && matchesArtist;

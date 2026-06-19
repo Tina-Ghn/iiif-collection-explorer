@@ -31,7 +31,10 @@ export function getManifestDescription(manifest: ManifestLike, fallback?: Manife
 }
 
 export function getManifestSource(manifest: ManifestLike, fallback?: ManifestLike): string {
-  const id = getManifestId(manifest) ?? getManifestId(fallback) ?? "";
+  const id =
+  getManifestId(manifest) ??
+  (fallback ? getManifestId(fallback) : undefined) ??
+  "";
 
   return (
     getFirstResourceId(manifest.homepage) ??
@@ -138,7 +141,8 @@ export function getText(value: IIIFTextValue | undefined, fallback = ""): string
     return toText(value) || fallback;
   }
 
-  const languageValues = value.none ?? value.de ?? value.en ?? Object.values(value)[0] ?? [];
+  const languageMap = value as Record<string, string[]>;
+  const languageValues = languageMap.none ?? languageMap.de ?? languageMap.en ?? Object.values(languageMap)[0] ?? [];
   return languageValues.map(toText).filter(Boolean).join(", ") || fallback;
 }
 
